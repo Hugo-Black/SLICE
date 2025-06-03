@@ -1,0 +1,229 @@
+## gff-version 3
+tr|I6X811|I6X811_MYCTU Probable periplasmic dipeptide-binding lipoprotein DppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dppA PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+tr|O07423|O07423_MYCTU Possible lipoprotein LprO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprO PE=1 SV=1	SignalP-6.0	signal_peptide	1	44	0.54368377	.	.	.
+tr|O69699|O69699_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3732 PE=1 SV=1	SignalP-6.0	signal_peptide	1	32	0.9992505	.	.	.
+tr|P71969|P71969_MYCTU Possible secreted protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2672 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	29	0.9992916	.	.	.
+tr|I6XVY0|I6XVY0_MYCTU Possible conserved lipoprotein LpqP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqP PE=4 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	17	1.0	.	.	.
+sp|I6Y4D2|PEPAM_MYCTU N-acetylmuramoyl-L-alanine amidase Rv3717 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3717 PE=1 SV=1	SignalP-6.0	signal_peptide	1	19	0.8322862	.	.	.
+tr|O05592|O05592_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1006 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	26	0.8333722	.	.	.
+sp|P9WI87|PILIN_MYCTU Pilin OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtp PE=1 SV=1	SignalP-6.0	signal_peptide	1	31	0.9987521	.	.	.
+tr|O33346|O33346_MYCTU Possible penicillin-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2864c PE=4 SV=3	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+tr|P71965|P71965_MYCTU Possible exported alanine and valine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2668 PE=1 SV=1	SignalP-6.0	signal_peptide	1	29	0.9991763	.	.	.
+sp|P9WGU3|MODA_MYCTU Molybdate-binding protein ModA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=modA PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	21	1.0	.	.	.
+sp|P9WK57|LPQV_MYCTU Putative lipoprotein LpqV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqV PE=3 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.9999855	.	.	.
+sp|P9WKL3|Y559_MYCTU Uncharacterized protein Rv0559c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0559c PE=1 SV=1	SignalP-6.0	signal_peptide	1	25	0.9990909	.	.	.
+tr|O07775|O07775_MYCTU Possible exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0603 PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.9985674	.	.	.
+tr|P95291|P95291_MYCTU Probable conserved lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1922 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+sp|I6XEI5|LYS25_MYCTU Putative peptidoglycan hydrolase Rv2525c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2525c PE=1 SV=1	SignalP-6.0	signal_peptide	1	35	0.99999857	.	.	Note=TAT
+tr|I6XF52|I6XF52_MYCTU Possible conserved transmembrane alanine and glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2721c PE=1 SV=1	SignalP-6.0	signal_peptide	1	35	0.9991038	.	.	.
+tr|I6Y2A3|I6Y2A3_MYCTU Probable lipoprotein LpqA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqA PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+sp|I6Y3P1|LPRN_MYCTU Lipoprotein LprN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprN PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+tr|O53975|O53975_MYCTU Probable conserved membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1974 PE=4 SV=1	SignalP-6.0	signal_peptide	1	36	0.9985598	.	.	.
+tr|O86313|O86313_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1230c PE=4 SV=1	SignalP-6.0	signal_peptide	1	46	0.4984639	.	.	.
+sp|P9WK45|LPRG_MYCTU Lipoarabinomannan carrier protein LprG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprG PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	26	0.99999815	.	.	.
+sp|P9WKV9|Y477_MYCTU Uncharacterized protein Rv0477 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0477 PE=1 SV=1	SignalP-6.0	signal_peptide	1	23	0.9991052	.	.	.
+sp|O05461|MYCP1_MYCTU Mycosin-1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP1 PE=1 SV=1	SignalP-6.0	signal_peptide	1	21	0.99915475	.	.	.
+tr|O07175|O07175_MYCTU Probable serine protease PepA (Serine proteinase) (MTB32A) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pepA PE=1 SV=1	SignalP-6.0	signal_peptide	1	32	0.999109	.	.	.
+tr|O07246|O07246_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0320 PE=4 SV=1	SignalP-6.0	signal_peptide	1	41	0.7958415	.	.	.
+tr|O50416|O50416_MYCTU Probable conserved lipoprotein LpqD OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqD PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	25	1.0	.	.	.
+tr|O86337|O86337_MYCTU Possible lipoprotein LprC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprC PE=1 SV=3	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+sp|P9WKF3|KDPA_MYCTU Potassium-transporting ATPase potassium-binding subunit OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=kdpA PE=1 SV=1	SignalP-6.0	signal_peptide	1	24	0.9992463	.	.	.
+tr|I6X7X3|I6X7X3_MYCTU Probable conserved lipoprotein LpqG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqG PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	1.0	.	.	.
+sp|I6Y204|DACB2_MYCTU D-alanyl-D-alanine carboxypeptidase DacB2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB2 PE=1 SV=1	SignalP-6.0	signal_peptide	1	25	0.9990731	.	.	.
+tr|O06237|O06237_MYCTU Probable conserved lipoprotein LppL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppL PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.99990606	.	.	.
+sp|P9WGT9|PSTS2_MYCTU Phosphate-binding protein PstS 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS2 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	1.0	.	.	.
+sp|P9WHR5|CAEB_MYCTU Carboxylesterase B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=caeB PE=1 SV=1	SignalP-6.0	signal_peptide	1	34	0.999074	.	.	.
+tr|O05582|O05582_MYCTU DUF5642 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0999 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	49	0.7440775	.	.	.
+sp|O53945|MYCP5_MYCTU Mycosin-5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP5 PE=1 SV=1	SignalP-6.0	signal_peptide	1	39	0.99881345	.	.	.
+tr|O53976|O53976_MYCTU SCP domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1975 PE=1 SV=1	SignalP-6.0	signal_peptide	1	27	0.9990154	.	.	.
+sp|P9WFN3|LPPC_MYCTU Putative lipoprotein LppC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppC PE=1 SV=2	SignalP-6.0	lipoprotein_signal_peptide	1	23	0.8334567	.	.	.
+sp|P9WGT7|PSTS3_MYCTU Phosphate-binding protein PstS 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS3 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	1.0	.	.	.
+sp|P9WLP3|Y1995_MYCTU Uncharacterized protein Rv1995 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1995 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	42	0.9999953	.	.	Note=TAT
+sp|P9WP91|COBS_MYCTU Adenosylcobinamide-GDP ribazoletransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cobS PE=3 SV=1	SignalP-6.0	signal_peptide	1	21	0.6115132	.	.	.
+tr|Q6MWX4|Q6MWX4_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3395A PE=1 SV=1	SignalP-6.0	signal_peptide	1	30	0.9988602	.	.	.
+tr|I6XYM2|I6XYM2_MYCTU Probable conserved lipoprotein DsbF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dsbF PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+tr|O07222|O07222_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1810 PE=1 SV=4	SignalP-6.0	signal_peptide	1	35	0.99882287	.	.	.
+tr|P95206|P95206_MYCTU Possible secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0398c PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.9989917	.	.	.
+sp|P9WK49|LPRE_MYCTU Putative lipoprotein LprE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprE PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	28	0.99779016	.	.	.
+sp|P9WLX7|Y1424_MYCTU Uncharacterized protein Rv1424c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1424c PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	3	0.66665965	.	.	.
+tr|I6X8E6|I6X8E6_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0061c PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.99870133	.	.	.
+tr|O53246|O53246_MYCTU Probable conserved lipoprotein LppY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppY PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	23	1.0	.	.	.
+sp|P9WM45|Y1269_MYCTU Protein Rv1269c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1269c PE=1 SV=1	SignalP-6.0	signal_peptide	1	35	0.6659902	.	.	.
+sp|O07801|CHP1_MYCTU SL1278 acyltransferase Chp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp1 PE=1 SV=1	SignalP-6.0	signal_peptide	1	66	0.8102541	.	.	.
+sp|O33192|LPRJ_MYCTU Putative lipoprotein LprJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprJ PE=1 SV=1	SignalP-6.0	signal_peptide	1	41	0.5003074	.	.	.
+sp|P9WIR7|APA_MYCTU Alanine and proline-rich secreted protein Apa OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=apa PE=1 SV=1	SignalP-6.0	signal_peptide	1	39	0.9980435	.	.	.
+sp|P9WK75|LPPK_MYCTU Putative lipoprotein LppK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppK PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	1.0	.	.	.
+sp|P9WK79|LPPB_MYCTU Putative lipoprotein LppB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppB PE=3 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	32	0.9891238	.	.	.
+tr|I6Y8R4|I6Y8R4_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0774c PE=1 SV=1	SignalP-6.0	signal_peptide	1	41	0.99999934	.	.	Note=TAT
+tr|O05589|O05589_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1004c PE=4 SV=2	SignalP-6.0	signal_peptide	1	44	0.8257699	.	.	.
+sp|P9WIB9|SCMU_MYCTU Secreted chorismate mutase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1885c PE=1 SV=1	SignalP-6.0	signal_peptide	1	33	0.99870425	.	.	.
+sp|P9WK37|LPQB_MYCTU Lipoprotein LpqB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqB PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+sp|P9WKD9|KU_MYCTU Non-homologous end joining protein Ku OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mku PE=1 SV=1	SignalP-6.0	signal_peptide	1	22	0.6661526	.	.	.
+sp|P9WP41|CULP2_MYCTU Probable carboxylesterase Culp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut2 PE=1 SV=1	SignalP-6.0	signal_peptide	1	43	0.8322644	.	.	.
+sp|I6YC58|MYCP4_MYCTU Mycosin-4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP4 PE=2 SV=1	SignalP-6.0	signal_peptide	1	28	0.99905795	.	.	.
+tr|O07741|O07741_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1891 PE=1 SV=1	SignalP-6.0	signal_peptide	1	24	0.9989255	.	.	.
+sp|O50440|CHP2_MYCTU Diacyltrehalose acyltransferase Chp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp2 PE=1 SV=3	SignalP-6.0	signal_peptide	1	25	0.99895006	.	.	.
+tr|P72062|P72062_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=atsH PE=1 SV=2	SignalP-6.0	lipoprotein_signal_peptide	1	43	0.84418625	.	.	Note=TAT
+tr|P96257|P96257_MYCTU Probable glutamine-binding lipoprotein GlnH (GLNBP) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=glnH PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.99997646	.	.	.
+tr|P96265|P96265_MYCTU Possible lipoprotein peptidase LpqM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqM PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	38	0.7757341	.	.	.
+sp|P9WG65|MPT53_MYCTU Soluble secreted antigen MPT53 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt53 PE=1 SV=1	SignalP-6.0	signal_peptide	1	37	0.8318779	.	.	.
+sp|P9WHR3|HIP1_MYCTU Serine protease Hip1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=hip1 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	30	0.98303026	.	.	.
+sp|P9WJU1|MMPLA_MYCTU Acyltrehalose exporter MmpL10 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmpL10 PE=1 SV=1	SignalP-6.0	signal_peptide	1	20	0.8305988	.	.	.
+tr|I6XHD1|I6XHD1_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3491 PE=1 SV=1	SignalP-6.0	signal_peptide	1	31	0.99873257	.	.	.
+sp|O53638|LDT1_MYCTU L,D-transpeptidase 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtA PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.686336	.	.	.
+sp|P9WGU5|OPPA_MYCTU Oligopeptide-binding protein OppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=oppA PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	51	0.7615189	.	.	.
+sp|P9WKV3|LDT5_MYCTU L,D-transpeptidase 5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprQ PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	48	0.9998944	.	.	Note=TAT
+sp|P9WL33|Y2891_MYCTU Uncharacterized protein Rv2891 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2891 PE=3 SV=1	SignalP-6.0	signal_peptide	1	36	0.9988809	.	.	.
+sp|P9WP43|CULP1_MYCTU Carboxylesterase Culp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut7 PE=1 SV=1	SignalP-6.0	signal_peptide	1	32	0.999039	.	.	.
+sp|P9WQN9|A85C_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpC PE=1 SV=1	SignalP-6.0	signal_peptide	1	46	0.5672067	.	.	.
+tr|I6YGW2|I6YGW2_MYCTU Possible protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3668c PE=1 SV=1	SignalP-6.0	signal_peptide	1	29	0.99897367	.	.	.
+tr|O50383|O50383_MYCTU DUF732 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3354 PE=1 SV=1	SignalP-6.0	signal_peptide	1	32	0.9988613	.	.	.
+sp|P9WGU7|LPQW_MYCTU Probable monoacyl phosphatidylinositol tetramannoside-binding protein LpqW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqW PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.9999874	.	.	.
+sp|P9WLQ1|MCBP_MYCTU Cellulose/chitin binding protein Rv1987 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=CBD2 PE=1 SV=1	SignalP-6.0	signal_peptide	1	37	0.99780184	.	.	.
+tr|I6XI06|I6XI06_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3705c PE=1 SV=1	SignalP-6.0	signal_peptide	1	25	0.9991307	.	.	.
+tr|I6Y293|I6Y293_MYCTU Probable conserved lipoprotein LppZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppZ PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	23	0.9999849	.	.	.
+tr|O06624|O06624_MYCTU Possible Inv protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1566c PE=1 SV=3	SignalP-6.0	signal_peptide	1	30	0.99911684	.	.	.
+sp|O07747|RPFC_MYCTU Resuscitation-promoting factor RpfC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfC PE=1 SV=3	SignalP-6.0	signal_peptide	1	67	0.6398161	.	.	.
+tr|O53444|O53444_MYCTU Possible glycosyl hydrolase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1096 PE=1 SV=1	SignalP-6.0	signal_peptide	1	38	0.9986407	.	.	.
+sp|O53859|LPQS_MYCTU Lipoprotein LpqS OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqS PE=2 SV=3	SignalP-6.0	signal_peptide	1	23	0.6662224	.	.	.
+sp|P9WIP1|MP63_MYCTU Immunogenic protein MPT63 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt63 PE=1 SV=1	SignalP-6.0	signal_peptide	1	29	0.99919415	.	.	.
+sp|P9WK61|LPQH_MYCTU Lipoprotein LpqH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqH PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.999996	.	.	.
+tr|I6X9E2|I6X9E2_MYCTU Probable conserved lipoprotein LpqO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqO PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.99999946	.	.	.
+tr|I6Y461|I6Y461_MYCTU Possible Mce-family lipoprotein LprL (Mce-family lipoprotein Mce2E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprL PE=4 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	45	0.8005471	.	.	.
+sp|O06319|CULP4_MYCTU Phospholipase Culp4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut4 PE=1 SV=3	SignalP-6.0	signal_peptide	1	45	0.9987437	.	.	.
+tr|P95207|P95207_MYCTU Possible conserved lipoprotein LpqK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqK PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+sp|P9WGU9|LPQY_MYCTU Trehalose-binding lipoprotein LpqY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqY PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	25	0.66709274	.	.	.
+sp|P9WHU3|Y2190_MYCTU Probable endopeptidase Rv2190c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2190c PE=1 SV=1	SignalP-6.0	signal_peptide	1	37	0.9989944	.	.	.
+sp|P9WK63|LPQE_MYCTU Putative lipoprotein LpqE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqE PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	29	0.9999745	.	.	.
+sp|P9WL83|Y2576_MYCTU Uncharacterized protein Rv2576c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2576c PE=1 SV=1	SignalP-6.0	signal_peptide	1	45	0.998959	.	.	.
+tr|O06555|O06555_MYCTU Conserved ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1157c PE=1 SV=1	SignalP-6.0	signal_peptide	1	44	0.9984205	.	.	.
+sp|O06825|LDT3_MYCTU Probable L,D-transpeptidase 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1433 PE=1 SV=1	SignalP-6.0	signal_peptide	1	20	0.9990125	.	.	.
+tr|O07726|O07726_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1906c PE=1 SV=3	SignalP-6.0	signal_peptide	1	32	0.9990985	.	.	.
+tr|O53485|O53485_MYCTU Probable sugar-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2041c PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	29	0.83335024	.	.	Note=TAT
+tr|P95237|P95237_MYCTU Probable conserved lipoprotein LppQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppQ PE=4 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	31	0.9983325	.	.	.
+sp|P9WG31|RPFA_MYCTU Resuscitation-promoting factor RpfA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfA PE=1 SV=1	SignalP-6.0	signal_peptide	1	38	0.99742204	.	.	.
+sp|P9WIN9|MP64_MYCTU Immunogenic protein MPT64 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt64 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	16	0.499923	.	.	.
+sp|P9WK65|LPPX_MYCTU Putative phthiocerol dimycocerosate transporter LppX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppX PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	26	0.9999947	.	.	.
+sp|P9WQN7|MPT51_MYCTU MPT51/MPB51 antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt51 PE=1 SV=1	SignalP-6.0	signal_peptide	1	26	0.99914765	.	.	.
+tr|I6X7P2|I6X7P2_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3572 PE=1 SV=1	SignalP-6.0	signal_peptide	1	24	0.9992414	.	.	.
+sp|O07750|LPPE_MYCTU Probable lipoprotein LppE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppE PE=1 SV=2	SignalP-6.0	lipoprotein_signal_peptide	1	21	0.8334253	.	.	.
+tr|O53291|O53291_MYCTU Probable FEIII-dicitrate-binding periplasmic lipoprotein FecB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+tr|O53383|O53383_MYCTU Hypothetical proline rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3333c PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.9986151	.	.	.
+tr|O53608|O53608_MYCTU Possible oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0063 PE=1 SV=1	SignalP-6.0	signal_peptide	1	31	0.99999875	.	.	Note=TAT
+sp|P96264|LPQL_MYCTU Probable lipoprotein aminopeptidase LpqL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqL PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+sp|P9WLF1|Y2277_MYCTU Uncharacterized protein Rv2277c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2277c PE=1 SV=1	SignalP-6.0	signal_peptide	1	22	0.9992861	.	.	.
+tr|I6Y3N9|I6Y3N9_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0397A PE=1 SV=1	SignalP-6.0	signal_peptide	1	29	0.99894786	.	.	.
+sp|O33363|GDSL_MYCTU GDSL lipase Rv0518 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0518 PE=1 SV=1	SignalP-6.0	signal_peptide	1	20	0.9992895	.	.	.
+sp|P9WIM9|PR28_MYCTU Proline-rich 28 kDa antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtc28 PE=1 SV=1	SignalP-6.0	signal_peptide	1	32	0.9987622	.	.	.
+sp|P9WM47|Y1268_MYCTU Uncharacterized protein Rv1268c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1268c PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.9989523	.	.	.
+tr|I6YAY5|I6YAY5_MYCTU DUF4333 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3033 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+sp|O53168|RIPA_MYCTU Peptidoglycan endopeptidase RipA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripA PE=1 SV=1	SignalP-6.0	signal_peptide	1	39	0.6664725	.	.	.
+sp|P9WGU1|PSTS1_MYCTU Phosphate-binding protein PstS 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS1 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	23	1.0	.	.	.
+sp|P9WIQ7|ERP_MYCTU Exported repetitive protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=erp PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.5126536	.	.	.
+sp|P9WLS1|Y1813_MYCTU Uncharacterized protein Rv1813c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1813c PE=1 SV=1	SignalP-6.0	signal_peptide	1	32	0.83234173	.	.	.
+sp|P9WM15|Y1352_MYCTU Uncharacterized protein Rv1352 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1352 PE=1 SV=1	SignalP-6.0	signal_peptide	1	30	0.99915475	.	.	.
+sp|P9WN33|ASNH_MYCTU Putative asparagine synthetase [glutamine-hydrolyzing] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=asnB PE=1 SV=1	SignalP-6.0	signal_peptide	1	14	0.9990535	.	.	.
+sp|I6Y9J2|LDT2_MYCTU L,D-transpeptidase 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtB PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	34	0.99382955	.	.	.
+tr|O05436|O05436_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3909 PE=1 SV=1	SignalP-6.0	signal_peptide	1	39	0.9981374	.	.	.
+tr|O06155|O06155_MYCTU Probable conserved lipoprotein LpqF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqF PE=4 SV=2	SignalP-6.0	lipoprotein_signal_peptide	1	31	0.9941456	.	.	.
+tr|O53850|O53850_MYCTU D-alanyl-D-alanine dipeptidase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqR PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	1.0	.	.	.
+tr|P96226|P96226_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3851 PE=4 SV=1	SignalP-6.0	signal_peptide	1	47	0.7905106	.	.	.
+sp|P9WLX9|Y1419_MYCTU Uncharacterized protein Rv1419 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1419 PE=1 SV=1	SignalP-6.0	signal_peptide	1	33	0.999167	.	.	.
+sp|I6X8R5|RV203_MYCTU Heme-binding protein Rv0203 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0203 PE=1 SV=1	SignalP-6.0	signal_peptide	1	36	0.99824953	.	.	.
+sp|O05458|MYCP2_MYCTU Mycosin-2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP2 PE=1 SV=1	SignalP-6.0	signal_peptide	1	33	0.998779	.	.	.
+sp|O53361|SAPM_MYCTU Phosphatidylinositol-3-phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sapM PE=1 SV=1	SignalP-6.0	signal_peptide	1	43	0.9976941	.	.	.
+tr|O53963|O53963_MYCTU phosphoserine phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppF PE=3 SV=2	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+sp|P9WG29|RPFB_MYCTU Resuscitation-promoting factor RpfB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfB PE=1 SV=1	SignalP-6.0	signal_peptide	1	22	0.4978211	.	.	.
+sp|P9WK53|LPRB_MYCTU Putative lipoprotein LprB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprB PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	24	0.9999979	.	.	.
+sp|P9WK69|LPPP_MYCTU Putative lipoprotein LppP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppP PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	30	1.0	.	.	.
+sp|P9WK77|LPPJ_MYCTU Putative lipoprotein LppJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppJ PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	28	0.99927884	.	.	.
+tr|I6WZ30|I6WZ30_MYCTU Conserved threonine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0679c PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	32	0.97755504	.	.	.
+sp|I6WZK7|MMCO_MYCTU Multicopper oxidase MmcO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmcO PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	34	1.0	.	.	Note=TAT
+sp|O53780|LPQN_MYCTU Lipoprotein LpqN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqN PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+tr|P71750|P71750_MYCTU Probable gamma-glutamyltranspeptidase GgtB (Gamma-glutamyltransferase) (Glutamyl transpeptidase) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ggtB PE=1 SV=2	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+sp|P9WM17|Y1351_MYCTU Uncharacterized protein Rv1351 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1351 PE=4 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	47	0.61281747	.	.	.
+tr|I6YGI1|I6YGI1_MYCTU Arylamine N-acetyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3566A PE=4 SV=1	SignalP-6.0	signal_peptide	1	32	0.66665876	.	.	Note=TAT
+tr|O06392|O06392_MYCTU Possible thioredoxin protein (Thiol-disulfide interchange protein) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0526 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	30	0.97497225	.	.	.
+tr|O50459|O50459_MYCTU Probable lipoprotein LpqZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqZ PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	1.0	.	.	.
+sp|P9WK39|LPRP_MYCTU Uncharacterized lipoprotein LprP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprP PE=3 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	21	1.0	.	.	.
+sp|P9WK43|LPRH_MYCTU Putative lipoprotein LprH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprH PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.8333199	.	.	.
+sp|P9WK81|LPPA_MYCTU Putative lipoprotein LppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppA PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	32	0.99968576	.	.	.
+sp|P9WLE1|Y2293_MYCTU Uncharacterized protein Rv2293c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2293c PE=3 SV=1	SignalP-6.0	signal_peptide	1	24	0.66623783	.	.	.
+tr|O06823|O06823_MYCTU Probable conserved proline, glycine, valine-rich secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1435c PE=1 SV=1	SignalP-6.0	signal_peptide	1	33	0.99890774	.	.	.
+tr|O07242|O07242_MYCTU Possible beta-1,3-glucanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0315 PE=1 SV=1	SignalP-6.0	signal_peptide	1	31	0.9999831	.	.	Note=TAT
+tr|O50382|O50382_MYCTU Oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3353c PE=4 SV=2	SignalP-6.0	signal_peptide	1	27	0.99998003	.	.	Note=TAT
+sp|O86365|Y584_MYCTU Uncharacterized glycosidase Rv0584 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0584 PE=3 SV=1	SignalP-6.0	signal_peptide	1	32	0.9991121	.	.	.
+tr|P71619|P71619_MYCTU Probable Sn-glycerol-3-phosphate-binding lipoprotein UgpB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ugpB PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.97115713	.	.	Note=TAT
+tr|P71655|P71655_MYCTU Probable conserved lipoprotein LppV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppV PE=4 SV=4	SignalP-6.0	lipoprotein_signal_peptide	1	18	1.0	.	.	.
+tr|P96378|P96378_MYCTU Probable conserved lipoprotein LpqU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqU PE=1 SV=4	SignalP-6.0	lipoprotein_signal_peptide	1	23	1.0	.	.	.
+sp|P96419|AFTD_MYCTU Alpha-(1->3)-arabinofuranosyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=aftD PE=1 SV=2	SignalP-6.0	signal_peptide	1	30	0.838581	.	.	.
+sp|P9WL81|Y2577_MYCTU Uncharacterized protein Rv2577 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2577 PE=3 SV=1	SignalP-6.0	signal_peptide	1	48	0.6666894	.	.	Note=TAT
+tr|O33224|O33224_MYCTU Probable lipoprotein LpqX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqX PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	0.97429997	.	.	.
+tr|O53948|O53948_MYCTU Probable lipoprotein LppT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppT PE=4 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	31	0.49995658	.	.	.
+sp|P96809|FHMAD_MYCTU F420-dependent hydroxymycolic acid dehydrogenase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fgd2 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	26	1.0	.	.	Note=TAT
+sp|P9WK73|LPPN_MYCTU Putative lipoprotein LppN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppN PE=3 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+sp|P9WLG7|Y2240_MYCTU Uncharacterized protein Rv2240c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2240c PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	36	0.88977766	.	.	.
+sp|P9WP39|CULP3_MYCTU Probable carboxylesterase Culp3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut3 PE=1 SV=1	SignalP-6.0	signal_peptide	1	41	0.9975272	.	.	.
+sp|P9WP69|COX2_MYCTU Cytochrome c oxidase subunit 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ctaC PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	46	0.70842797	.	.	.
+tr|I6XFA6|I6XFA6_MYCTU Probable lipoprotein LppU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppU PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	18	1.0	.	.	.
+tr|L7N6B2|L7N6B2_MYCTU Probable periplasmic iron-transport lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB2 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	25	1.0	.	.	Note=TAT
+tr|O53716|O53716_MYCTU Lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0381c PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	20	0.9999973	.	.	.
+sp|P9WGE9|SODC_MYCTU Superoxide dismutase [Cu-Zn] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sodC PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	32	0.96247643	.	.	.
+sp|P9WQP1|A85B_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpB PE=1 SV=1	SignalP-6.0	signal_peptide	1	40	0.4999244	.	.	Note=TAT
+tr|I6YAE2|I6YAE2_MYCTU Probable conserved transmembrane alanine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2843 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	36	1.0	.	.	Note=TAT
+sp|O53380|DACB1_MYCTU D-alanyl-D-alanine carboxypeptidase DacB1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB1 PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.99887663	.	.	.
+sp|O53505|LPPM_MYCTU Protein LppM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppM PE=1 SV=3	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+sp|P9WIB5|PHLA_MYCTU Phospholipase C A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcA PE=1 SV=1	SignalP-6.0	signal_peptide	1	40	0.9999993	.	.	Note=TAT
+sp|P9WIN7|MTB12_MYCTU Low molecular weight antigen MTB12 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtb12 PE=1 SV=1	SignalP-6.0	signal_peptide	1	29	0.998765	.	.	.
+sp|P9WLL5|Y2075_MYCTU Uncharacterized protein Rv2075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2075c PE=4 SV=1	SignalP-6.0	signal_peptide	1	30	0.99895	.	.	.
+sp|P9WM33|Y1291_MYCTU Uncharacterized protein Rv1291c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1291c PE=4 SV=1	SignalP-6.0	signal_peptide	1	33	0.998916	.	.	.
+tr|O53179|O53179_MYCTU Uncharacterized protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2452c PE=4 SV=1	SignalP-6.0	signal_peptide	1	27	0.8257127	.	.	.
+tr|O53971|O53971_MYCTU Possible Mce-family lipoprotein LprM (Mce-family lipoprotein Mce3E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprM PE=4 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	16	1.0	.	.	.
+sp|P9WHU5|RIPB_MYCTU Peptidoglycan endopeptidase RipB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripB PE=1 SV=1	SignalP-6.0	signal_peptide	1	31	0.99888104	.	.	.
+sp|P9WK41|LPRI_MYCTU Lipoprotein LprI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprI PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	15	1.0	.	.	.
+sp|P9WL77|Y2585_MYCTU Uncharacterized lipoprotein Rv2585c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2585c PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	30	0.83267736	.	.	.
+sp|P9WM43|Y1271_MYCTU Uncharacterized protein Rv1271c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1271c PE=3 SV=1	SignalP-6.0	signal_peptide	1	34	0.9987611	.	.	.
+sp|P9WNF3|MP83_MYCTU Cell surface glycolipoprotein MPT83 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt83 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+sp|I6YF08|ESTR2_MYCTU Esterase Rv3036c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB22.2 PE=1 SV=1	SignalP-6.0	signal_peptide	1	22	0.999258	.	.	.
+tr|I6YGJ4|I6YGJ4_MYCTU Possible conserved lipoprotein LppH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppH PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	20	1.0	.	.	.
+sp|L7N6B0|LPQI_MYCTU Beta-hexosaminidase LpqI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqI PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	19	0.99999744	.	.	.
+tr|O06556|O06556_MYCTU Conserved hypothetical ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1158c PE=4 SV=1	SignalP-6.0	signal_peptide	1	29	0.9988613	.	.	.
+tr|O69725|O69725_MYCTU Possible osmoprotectant (Glycine betaine/carnitine/choline/L-proline) binding lipoprotein ProX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=proX PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	26	0.50015086	.	.	.
+tr|P71744|P71744_MYCTU Probable sulfate-binding lipoprotein SubI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=subI PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	37	0.7861367	.	.	.
+sp|P9WK67|LPPW_MYCTU Putative lipoprotein LppW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppW PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.83338386	.	.	.
+tr|Q79F96|Q79F96_MYCTU Peptidoglycan recognition protein family domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=csp PE=3 SV=1	SignalP-6.0	signal_peptide	1	19	0.507841	.	.	.
+tr|Q79FG2|Q79FG2_MYCTU Hypothetical glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2307B PE=1 SV=1	SignalP-6.0	signal_peptide	1	59	0.7720974	.	.	.
+tr|I6Y4F1|I6Y4F1_MYCTU Probable conserved transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0680c PE=1 SV=1	SignalP-6.0	signal_peptide	1	30	0.9989152	.	.	.
+sp|O53177|RPFE_MYCTU Resuscitation-promoting factor RpfE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfE PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.9987746	.	.	.
+sp|O53423|GDSLL_MYCTU GDSL-like esterase Rv1075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1075c PE=1 SV=3	SignalP-6.0	signal_peptide	1	33	0.4632847	.	.	Note=TAT
+tr|O53846|O53846_MYCTU Possible lipoprotein LpqQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqQ PE=1 SV=3	SignalP-6.0	lipoprotein_signal_peptide	1	22	1.0	.	.	.
+tr|P96903|P96903_MYCTU Possible esterase lipoprotein LpqC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqC PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	18	1.0	.	.	.
+sp|P9WIB3|PHLB_MYCTU Phospholipase C B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcB PE=1 SV=1	SignalP-6.0	signal_peptide	1	41	0.99999523	.	.	Note=TAT
+tr|O53489|O53489_MYCTU Probable lipoprotein LppI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppI PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	15	1.0	.	.	.
+sp|P9WKQ1|SMASE_MYCTU Sphingomyelinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=spmT PE=1 SV=1	SignalP-6.0	signal_peptide	1	31	0.998687	.	.	.
+tr|Q79FZ8|Q79FZ8_MYCTU Conserved secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0192A PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.99905354	.	.	.
+sp|P9WKE7|KHSE_MYCTU Homoserine kinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=thrB PE=1 SV=1	SignalP-6.0	signal_peptide	1	24	0.83201414	.	.	.
+tr|Q79FA5|Q79FA5_MYCTU Probable cutinase [first part] Cut5a OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut5a PE=4 SV=1	SignalP-6.0	signal_peptide	1	35	0.9983627	.	.	.
+tr|O07236|O07236_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0309 PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	15	0.5000625	.	.	.
+tr|O33364|O33364_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0519c PE=1 SV=1	SignalP-6.0	signal_peptide	1	55	0.99707174	.	.	Note=TAT
+tr|O07417|O07417_MYCTU Possible Mce-family lipoprotein LprK (Mce-family lipoprotein Mce1E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprK PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	30	0.9951139	.	.	.
+tr|O53527|O53527_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2253 PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.9990697	.	.	.
+sp|O53695|MYCP3_MYCTU Mycosin-3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP3 PE=1 SV=1	SignalP-6.0	signal_peptide	1	25	0.99901277	.	.	.
+tr|P94983|P94983_MYCTU Probable transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1648 PE=4 SV=1	SignalP-6.0	signal_peptide	1	38	0.84800833	.	.	.
+sp|P9WFJ5|Y2345_MYCTU UPF0603 protein Rv2345 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2345 PE=1 SV=1	SignalP-6.0	signal_peptide	1	26	0.99911505	.	.	.
+sp|P9WFN5|Y1910_MYCTU UPF0098 protein Rv1910c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1910c PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	27	0.9999607	.	.	.
+sp|P9WNF5|MP70_MYCTU Immunogenic protein MPT70 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt70 PE=1 SV=1	SignalP-6.0	signal_peptide	1	30	0.9988963	.	.	.
+tr|O53953|O53953_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1804c PE=4 SV=3	SignalP-6.0	signal_peptide	1	22	0.99867314	.	.	.
+tr|P71740|P71740_MYCTU Probable conserved lipoprotein LppR OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppR PE=1 SV=2	SignalP-6.0	lipoprotein_signal_peptide	1	19	1.0	.	.	.
+sp|P9WK55|LPRA_MYCTU Lipoprotein LprA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprA PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	24	1.0	.	.	.
+sp|P9WK59|LPQT_MYCTU Putative lipoprotein LpqT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqT PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	29	0.8326173	.	.	.
+sp|P9WLR9|Y1815_MYCTU Uncharacterized protein Rv1815 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1815 PE=1 SV=1	SignalP-6.0	signal_peptide	1	27	0.9988663	.	.	.
+sp|P9WQP3|A85A_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpA PE=1 SV=1	SignalP-6.0	signal_peptide	1	43	0.49808362	.	.	Note=TAT
+tr|I6YB54|I6YB54_MYCTU 1,4-beta-xylanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3096 PE=1 SV=1	SignalP-6.0	signal_peptide	1	27	0.83341146	.	.	Note=TAT
+tr|O06295|O06295_MYCTU Probable lipoprotein LpqJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqJ PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	22	0.99998444	.	.	.
+tr|O50430|O50430_MYCTU Low molecular weight T-cell antigen TB8.4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB8.4 PE=1 SV=1	SignalP-6.0	signal_peptide	1	28	0.99890494	.	.	.
+tr|O53740|O53740_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0455c PE=1 SV=3	SignalP-6.0	signal_peptide	1	30	0.9988596	.	.	.
+sp|P9WIB1|PHLC_MYCTU Phospholipase C C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcC PE=1 SV=1	SignalP-6.0	signal_peptide	1	41	1.0	.	.	Note=TAT
+sp|P9WK47|LPRF_MYCTU Putative diacylated glycolipid transporter LprF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprF PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	38	0.9529335	.	.	.
+sp|P9WK71|LPPO_MYCTU Putative lipoprotein LppO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppO PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	28	0.83344746	.	.	.
+sp|P9WKD3|BLAC_MYCTU Beta-lactamase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=blaC PE=1 SV=1	SignalP-6.0	lipoprotein_signal_peptide	1	23	0.8146321	.	.	Note=TAT

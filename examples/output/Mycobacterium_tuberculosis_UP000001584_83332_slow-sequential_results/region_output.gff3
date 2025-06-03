@@ -1,0 +1,710 @@
+## gff-version 3
+tr|I6X811|I6X811_MYCTU Probable periplasmic dipeptide-binding lipoprotein DppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dppA PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|I6X811|I6X811_MYCTU Probable periplasmic dipeptide-binding lipoprotein DppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dppA PE=1 SV=1	SignalP-6.0	h-region	5	24	.	.	.	.
+tr|I6X811|I6X811_MYCTU Probable periplasmic dipeptide-binding lipoprotein DppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dppA PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+tr|O07423|O07423_MYCTU Possible lipoprotein LprO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprO PE=1 SV=1	SignalP-6.0	n-region	1	19	.	.	.	.
+tr|O07423|O07423_MYCTU Possible lipoprotein LprO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprO PE=1 SV=1	SignalP-6.0	h-region	20	35	.	.	.	.
+tr|O07423|O07423_MYCTU Possible lipoprotein LprO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprO PE=1 SV=1	SignalP-6.0	c-region	36	44	.	.	.	.
+tr|O69699|O69699_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3732 PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+tr|O69699|O69699_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3732 PE=1 SV=1	SignalP-6.0	h-region	9	26	.	.	.	.
+tr|O69699|O69699_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3732 PE=1 SV=1	SignalP-6.0	c-region	27	32	.	.	.	.
+tr|P71969|P71969_MYCTU Possible secreted protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2672 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|P71969|P71969_MYCTU Possible secreted protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2672 PE=1 SV=1	SignalP-6.0	h-region	4	29	.	.	.	.
+tr|P71969|P71969_MYCTU Possible secreted protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2672 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	30	30	.	.	.	.
+tr|I6XVY0|I6XVY0_MYCTU Possible conserved lipoprotein LpqP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqP PE=4 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|I6XVY0|I6XVY0_MYCTU Possible conserved lipoprotein LpqP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqP PE=4 SV=1	SignalP-6.0	h-region	5	17	.	.	.	.
+tr|I6XVY0|I6XVY0_MYCTU Possible conserved lipoprotein LpqP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqP PE=4 SV=1	SignalP-6.0	lipid-modified cysteine	18	18	.	.	.	.
+sp|I6Y4D2|PEPAM_MYCTU N-acetylmuramoyl-L-alanine amidase Rv3717 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3717 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|I6Y4D2|PEPAM_MYCTU N-acetylmuramoyl-L-alanine amidase Rv3717 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3717 PE=1 SV=1	SignalP-6.0	h-region	3	14	.	.	.	.
+sp|I6Y4D2|PEPAM_MYCTU N-acetylmuramoyl-L-alanine amidase Rv3717 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3717 PE=1 SV=1	SignalP-6.0	c-region	15	19	.	.	.	.
+tr|O05592|O05592_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1006 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O05592|O05592_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1006 PE=1 SV=1	SignalP-6.0	h-region	3	26	.	.	.	.
+tr|O05592|O05592_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1006 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	27	27	.	.	.	.
+sp|P9WI87|PILIN_MYCTU Pilin OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtp PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WI87|PILIN_MYCTU Pilin OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtp PE=1 SV=1	SignalP-6.0	h-region	4	25	.	.	.	.
+sp|P9WI87|PILIN_MYCTU Pilin OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtp PE=1 SV=1	SignalP-6.0	c-region	26	31	.	.	.	.
+tr|O33346|O33346_MYCTU Possible penicillin-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2864c PE=4 SV=3	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|O33346|O33346_MYCTU Possible penicillin-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2864c PE=4 SV=3	SignalP-6.0	h-region	5	24	.	.	.	.
+tr|O33346|O33346_MYCTU Possible penicillin-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2864c PE=4 SV=3	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+tr|P71965|P71965_MYCTU Possible exported alanine and valine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2668 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|P71965|P71965_MYCTU Possible exported alanine and valine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2668 PE=1 SV=1	SignalP-6.0	h-region	4	18	.	.	.	.
+tr|P71965|P71965_MYCTU Possible exported alanine and valine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2668 PE=1 SV=1	SignalP-6.0	c-region	19	29	.	.	.	.
+sp|P9WGU3|MODA_MYCTU Molybdate-binding protein ModA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=modA PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WGU3|MODA_MYCTU Molybdate-binding protein ModA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=modA PE=1 SV=1	SignalP-6.0	h-region	3	21	.	.	.	.
+sp|P9WGU3|MODA_MYCTU Molybdate-binding protein ModA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=modA PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+sp|P9WK57|LPQV_MYCTU Putative lipoprotein LpqV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqV PE=3 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WK57|LPQV_MYCTU Putative lipoprotein LpqV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqV PE=3 SV=1	SignalP-6.0	h-region	3	25	.	.	.	.
+sp|P9WK57|LPQV_MYCTU Putative lipoprotein LpqV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqV PE=3 SV=1	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+sp|P9WKL3|Y559_MYCTU Uncharacterized protein Rv0559c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0559c PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WKL3|Y559_MYCTU Uncharacterized protein Rv0559c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0559c PE=1 SV=1	SignalP-6.0	h-region	4	19	.	.	.	.
+sp|P9WKL3|Y559_MYCTU Uncharacterized protein Rv0559c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0559c PE=1 SV=1	SignalP-6.0	c-region	20	25	.	.	.	.
+tr|O07775|O07775_MYCTU Possible exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0603 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O07775|O07775_MYCTU Possible exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0603 PE=1 SV=1	SignalP-6.0	h-region	4	22	.	.	.	.
+tr|O07775|O07775_MYCTU Possible exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0603 PE=1 SV=1	SignalP-6.0	c-region	23	28	.	.	.	.
+tr|P95291|P95291_MYCTU Probable conserved lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1922 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|P95291|P95291_MYCTU Probable conserved lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1922 PE=1 SV=1	SignalP-6.0	h-region	3	24	.	.	.	.
+tr|P95291|P95291_MYCTU Probable conserved lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1922 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+sp|I6XEI5|LYS25_MYCTU Putative peptidoglycan hydrolase Rv2525c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2525c PE=1 SV=1	SignalP-6.0	n-region	1	7	.	.	.	.
+sp|I6XEI5|LYS25_MYCTU Putative peptidoglycan hydrolase Rv2525c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2525c PE=1 SV=1	SignalP-6.0	h-region	8	28	.	.	.	.
+sp|I6XEI5|LYS25_MYCTU Putative peptidoglycan hydrolase Rv2525c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2525c PE=1 SV=1	SignalP-6.0	c-region	29	35	.	.	.	.
+sp|I6XEI5|LYS25_MYCTU Putative peptidoglycan hydrolase Rv2525c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2525c PE=1 SV=1	SignalP-6.0	twin-arginine motif	5	6	.	.	.	.
+tr|I6XF52|I6XF52_MYCTU Possible conserved transmembrane alanine and glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2721c PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+tr|I6XF52|I6XF52_MYCTU Possible conserved transmembrane alanine and glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2721c PE=1 SV=1	SignalP-6.0	h-region	11	30	.	.	.	.
+tr|I6XF52|I6XF52_MYCTU Possible conserved transmembrane alanine and glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2721c PE=1 SV=1	SignalP-6.0	c-region	31	35	.	.	.	.
+tr|I6Y2A3|I6Y2A3_MYCTU Probable lipoprotein LpqA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqA PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|I6Y2A3|I6Y2A3_MYCTU Probable lipoprotein LpqA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqA PE=1 SV=1	SignalP-6.0	h-region	4	19	.	.	.	.
+tr|I6Y2A3|I6Y2A3_MYCTU Probable lipoprotein LpqA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqA PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+sp|I6Y3P1|LPRN_MYCTU Lipoprotein LprN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprN PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|I6Y3P1|LPRN_MYCTU Lipoprotein LprN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprN PE=1 SV=1	SignalP-6.0	h-region	4	20	.	.	.	.
+sp|I6Y3P1|LPRN_MYCTU Lipoprotein LprN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprN PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+tr|O53975|O53975_MYCTU Probable conserved membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1974 PE=4 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+tr|O53975|O53975_MYCTU Probable conserved membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1974 PE=4 SV=1	SignalP-6.0	h-region	11	30	.	.	.	.
+tr|O53975|O53975_MYCTU Probable conserved membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1974 PE=4 SV=1	SignalP-6.0	c-region	31	36	.	.	.	.
+tr|O86313|O86313_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1230c PE=4 SV=1	SignalP-6.0	n-region	1	25	.	.	.	.
+tr|O86313|O86313_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1230c PE=4 SV=1	SignalP-6.0	h-region	26	42	.	.	.	.
+tr|O86313|O86313_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1230c PE=4 SV=1	SignalP-6.0	c-region	43	46	.	.	.	.
+sp|P9WK45|LPRG_MYCTU Lipoarabinomannan carrier protein LprG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprG PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK45|LPRG_MYCTU Lipoarabinomannan carrier protein LprG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprG PE=1 SV=1	SignalP-6.0	h-region	4	26	.	.	.	.
+sp|P9WK45|LPRG_MYCTU Lipoarabinomannan carrier protein LprG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprG PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	27	27	.	.	.	.
+sp|P9WKV9|Y477_MYCTU Uncharacterized protein Rv0477 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0477 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WKV9|Y477_MYCTU Uncharacterized protein Rv0477 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0477 PE=1 SV=1	SignalP-6.0	h-region	3	18	.	.	.	.
+sp|P9WKV9|Y477_MYCTU Uncharacterized protein Rv0477 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0477 PE=1 SV=1	SignalP-6.0	c-region	19	23	.	.	.	.
+sp|O05461|MYCP1_MYCTU Mycosin-1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP1 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|O05461|MYCP1_MYCTU Mycosin-1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP1 PE=1 SV=1	SignalP-6.0	h-region	4	15	.	.	.	.
+sp|O05461|MYCP1_MYCTU Mycosin-1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP1 PE=1 SV=1	SignalP-6.0	c-region	16	21	.	.	.	.
+tr|O07175|O07175_MYCTU Probable serine protease PepA (Serine proteinase) (MTB32A) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pepA PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+tr|O07175|O07175_MYCTU Probable serine protease PepA (Serine proteinase) (MTB32A) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pepA PE=1 SV=1	SignalP-6.0	h-region	11	26	.	.	.	.
+tr|O07175|O07175_MYCTU Probable serine protease PepA (Serine proteinase) (MTB32A) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pepA PE=1 SV=1	SignalP-6.0	c-region	27	32	.	.	.	.
+tr|O07246|O07246_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0320 PE=4 SV=1	SignalP-6.0	n-region	1	13	.	.	.	.
+tr|O07246|O07246_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0320 PE=4 SV=1	SignalP-6.0	h-region	14	30	.	.	.	.
+tr|O07246|O07246_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0320 PE=4 SV=1	SignalP-6.0	c-region	31	41	.	.	.	.
+tr|O50416|O50416_MYCTU Probable conserved lipoprotein LpqD OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqD PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|O50416|O50416_MYCTU Probable conserved lipoprotein LpqD OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqD PE=1 SV=1	SignalP-6.0	h-region	5	25	.	.	.	.
+tr|O50416|O50416_MYCTU Probable conserved lipoprotein LpqD OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqD PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+tr|O86337|O86337_MYCTU Possible lipoprotein LprC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprC PE=1 SV=3	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O86337|O86337_MYCTU Possible lipoprotein LprC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprC PE=1 SV=3	SignalP-6.0	h-region	4	20	.	.	.	.
+tr|O86337|O86337_MYCTU Possible lipoprotein LprC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprC PE=1 SV=3	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+sp|P9WKF3|KDPA_MYCTU Potassium-transporting ATPase potassium-binding subunit OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=kdpA PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WKF3|KDPA_MYCTU Potassium-transporting ATPase potassium-binding subunit OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=kdpA PE=1 SV=1	SignalP-6.0	h-region	6	19	.	.	.	.
+sp|P9WKF3|KDPA_MYCTU Potassium-transporting ATPase potassium-binding subunit OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=kdpA PE=1 SV=1	SignalP-6.0	c-region	20	24	.	.	.	.
+tr|I6X7X3|I6X7X3_MYCTU Probable conserved lipoprotein LpqG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqG PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|I6X7X3|I6X7X3_MYCTU Probable conserved lipoprotein LpqG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqG PE=1 SV=1	SignalP-6.0	h-region	4	22	.	.	.	.
+tr|I6X7X3|I6X7X3_MYCTU Probable conserved lipoprotein LpqG OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqG PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+sp|I6Y204|DACB2_MYCTU D-alanyl-D-alanine carboxypeptidase DacB2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB2 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|I6Y204|DACB2_MYCTU D-alanyl-D-alanine carboxypeptidase DacB2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB2 PE=1 SV=1	SignalP-6.0	h-region	4	18	.	.	.	.
+sp|I6Y204|DACB2_MYCTU D-alanyl-D-alanine carboxypeptidase DacB2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB2 PE=1 SV=1	SignalP-6.0	c-region	19	25	.	.	.	.
+tr|O06237|O06237_MYCTU Probable conserved lipoprotein LppL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppL PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O06237|O06237_MYCTU Probable conserved lipoprotein LppL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppL PE=1 SV=1	SignalP-6.0	h-region	3	25	.	.	.	.
+tr|O06237|O06237_MYCTU Probable conserved lipoprotein LppL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppL PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+sp|P9WGT9|PSTS2_MYCTU Phosphate-binding protein PstS 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS2 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WGT9|PSTS2_MYCTU Phosphate-binding protein PstS 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS2 PE=1 SV=1	SignalP-6.0	h-region	3	22	.	.	.	.
+sp|P9WGT9|PSTS2_MYCTU Phosphate-binding protein PstS 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS2 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+sp|P9WHR5|CAEB_MYCTU Carboxylesterase B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=caeB PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|P9WHR5|CAEB_MYCTU Carboxylesterase B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=caeB PE=1 SV=1	SignalP-6.0	h-region	9	27	.	.	.	.
+sp|P9WHR5|CAEB_MYCTU Carboxylesterase B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=caeB PE=1 SV=1	SignalP-6.0	c-region	28	34	.	.	.	.
+tr|O05582|O05582_MYCTU DUF5642 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0999 PE=1 SV=1	SignalP-6.0	n-region	1	36	.	.	.	.
+tr|O05582|O05582_MYCTU DUF5642 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0999 PE=1 SV=1	SignalP-6.0	h-region	37	49	.	.	.	.
+tr|O05582|O05582_MYCTU DUF5642 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0999 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	50	50	.	.	.	.
+sp|O53945|MYCP5_MYCTU Mycosin-5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP5 PE=1 SV=1	SignalP-6.0	n-region	1	11	.	.	.	.
+sp|O53945|MYCP5_MYCTU Mycosin-5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP5 PE=1 SV=1	SignalP-6.0	h-region	12	33	.	.	.	.
+sp|O53945|MYCP5_MYCTU Mycosin-5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP5 PE=1 SV=1	SignalP-6.0	c-region	34	39	.	.	.	.
+tr|O53976|O53976_MYCTU SCP domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1975 PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|O53976|O53976_MYCTU SCP domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1975 PE=1 SV=1	SignalP-6.0	h-region	5	21	.	.	.	.
+tr|O53976|O53976_MYCTU SCP domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1975 PE=1 SV=1	SignalP-6.0	c-region	22	27	.	.	.	.
+sp|P9WFN3|LPPC_MYCTU Putative lipoprotein LppC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppC PE=1 SV=2	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WFN3|LPPC_MYCTU Putative lipoprotein LppC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppC PE=1 SV=2	SignalP-6.0	h-region	3	23	.	.	.	.
+sp|P9WFN3|LPPC_MYCTU Putative lipoprotein LppC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppC PE=1 SV=2	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+sp|P9WGT7|PSTS3_MYCTU Phosphate-binding protein PstS 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS3 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WGT7|PSTS3_MYCTU Phosphate-binding protein PstS 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS3 PE=1 SV=1	SignalP-6.0	h-region	3	22	.	.	.	.
+sp|P9WGT7|PSTS3_MYCTU Phosphate-binding protein PstS 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS3 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+sp|P9WLP3|Y1995_MYCTU Uncharacterized protein Rv1995 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1995 PE=1 SV=1	SignalP-6.0	n-region	1	26	.	.	.	.
+sp|P9WLP3|Y1995_MYCTU Uncharacterized protein Rv1995 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1995 PE=1 SV=1	SignalP-6.0	h-region	27	42	.	.	.	.
+sp|P9WLP3|Y1995_MYCTU Uncharacterized protein Rv1995 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1995 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	43	43	.	.	.	.
+sp|P9WLP3|Y1995_MYCTU Uncharacterized protein Rv1995 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1995 PE=1 SV=1	SignalP-6.0	twin-arginine motif	24	25	.	.	.	.
+sp|P9WP91|COBS_MYCTU Adenosylcobinamide-GDP ribazoletransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cobS PE=3 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WP91|COBS_MYCTU Adenosylcobinamide-GDP ribazoletransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cobS PE=3 SV=1	SignalP-6.0	h-region	4	17	.	.	.	.
+sp|P9WP91|COBS_MYCTU Adenosylcobinamide-GDP ribazoletransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cobS PE=3 SV=1	SignalP-6.0	c-region	18	21	.	.	.	.
+tr|Q6MWX4|Q6MWX4_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3395A PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+tr|Q6MWX4|Q6MWX4_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3395A PE=1 SV=1	SignalP-6.0	h-region	6	21	.	.	.	.
+tr|Q6MWX4|Q6MWX4_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3395A PE=1 SV=1	SignalP-6.0	c-region	22	30	.	.	.	.
+tr|I6XYM2|I6XYM2_MYCTU Probable conserved lipoprotein DsbF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dsbF PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|I6XYM2|I6XYM2_MYCTU Probable conserved lipoprotein DsbF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dsbF PE=1 SV=1	SignalP-6.0	h-region	4	19	.	.	.	.
+tr|I6XYM2|I6XYM2_MYCTU Probable conserved lipoprotein DsbF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dsbF PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+tr|O07222|O07222_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1810 PE=1 SV=4	SignalP-6.0	n-region	1	14	.	.	.	.
+tr|O07222|O07222_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1810 PE=1 SV=4	SignalP-6.0	h-region	15	29	.	.	.	.
+tr|O07222|O07222_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1810 PE=1 SV=4	SignalP-6.0	c-region	30	35	.	.	.	.
+tr|P95206|P95206_MYCTU Possible secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0398c PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|P95206|P95206_MYCTU Possible secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0398c PE=1 SV=1	SignalP-6.0	h-region	4	22	.	.	.	.
+tr|P95206|P95206_MYCTU Possible secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0398c PE=1 SV=1	SignalP-6.0	c-region	23	28	.	.	.	.
+sp|P9WK49|LPRE_MYCTU Putative lipoprotein LprE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprE PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK49|LPRE_MYCTU Putative lipoprotein LprE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprE PE=1 SV=1	SignalP-6.0	h-region	4	28	.	.	.	.
+sp|P9WK49|LPRE_MYCTU Putative lipoprotein LprE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprE PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	29	29	.	.	.	.
+sp|P9WLX7|Y1424_MYCTU Uncharacterized protein Rv1424c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1424c PE=1 SV=1	SignalP-6.0	n-region	1	1	.	.	.	.
+sp|P9WLX7|Y1424_MYCTU Uncharacterized protein Rv1424c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1424c PE=1 SV=1	SignalP-6.0	h-region	2	3	.	.	.	.
+sp|P9WLX7|Y1424_MYCTU Uncharacterized protein Rv1424c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1424c PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	4	4	.	.	.	.
+tr|I6X8E6|I6X8E6_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0061c PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|I6X8E6|I6X8E6_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0061c PE=1 SV=1	SignalP-6.0	h-region	5	23	.	.	.	.
+tr|I6X8E6|I6X8E6_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0061c PE=1 SV=1	SignalP-6.0	c-region	24	28	.	.	.	.
+tr|O53246|O53246_MYCTU Probable conserved lipoprotein LppY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppY PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O53246|O53246_MYCTU Probable conserved lipoprotein LppY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppY PE=1 SV=1	SignalP-6.0	h-region	4	23	.	.	.	.
+tr|O53246|O53246_MYCTU Probable conserved lipoprotein LppY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppY PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+sp|P9WM45|Y1269_MYCTU Protein Rv1269c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1269c PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+sp|P9WM45|Y1269_MYCTU Protein Rv1269c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1269c PE=1 SV=1	SignalP-6.0	h-region	11	29	.	.	.	.
+sp|P9WM45|Y1269_MYCTU Protein Rv1269c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1269c PE=1 SV=1	SignalP-6.0	c-region	30	35	.	.	.	.
+sp|O07801|CHP1_MYCTU SL1278 acyltransferase Chp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp1 PE=1 SV=1	SignalP-6.0	n-region	1	42	.	.	.	.
+sp|O07801|CHP1_MYCTU SL1278 acyltransferase Chp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp1 PE=1 SV=1	SignalP-6.0	h-region	3	60	.	.	.	.
+sp|O07801|CHP1_MYCTU SL1278 acyltransferase Chp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp1 PE=1 SV=1	SignalP-6.0	c-region	4	66	.	.	.	.
+sp|O33192|LPRJ_MYCTU Putative lipoprotein LprJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprJ PE=1 SV=1	SignalP-6.0	n-region	1	17	.	.	.	.
+sp|O33192|LPRJ_MYCTU Putative lipoprotein LprJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprJ PE=1 SV=1	SignalP-6.0	h-region	18	32	.	.	.	.
+sp|O33192|LPRJ_MYCTU Putative lipoprotein LprJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprJ PE=1 SV=1	SignalP-6.0	c-region	33	41	.	.	.	.
+sp|P9WIR7|APA_MYCTU Alanine and proline-rich secreted protein Apa OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=apa PE=1 SV=1	SignalP-6.0	n-region	1	14	.	.	.	.
+sp|P9WIR7|APA_MYCTU Alanine and proline-rich secreted protein Apa OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=apa PE=1 SV=1	SignalP-6.0	h-region	15	33	.	.	.	.
+sp|P9WIR7|APA_MYCTU Alanine and proline-rich secreted protein Apa OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=apa PE=1 SV=1	SignalP-6.0	c-region	34	39	.	.	.	.
+sp|P9WK75|LPPK_MYCTU Putative lipoprotein LppK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppK PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK75|LPPK_MYCTU Putative lipoprotein LppK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppK PE=1 SV=1	SignalP-6.0	h-region	4	22	.	.	.	.
+sp|P9WK75|LPPK_MYCTU Putative lipoprotein LppK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppK PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+sp|P9WK79|LPPB_MYCTU Putative lipoprotein LppB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppB PE=3 SV=1	SignalP-6.0	n-region	1	13	.	.	.	.
+sp|P9WK79|LPPB_MYCTU Putative lipoprotein LppB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppB PE=3 SV=1	SignalP-6.0	h-region	14	32	.	.	.	.
+sp|P9WK79|LPPB_MYCTU Putative lipoprotein LppB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppB PE=3 SV=1	SignalP-6.0	lipid-modified cysteine	33	33	.	.	.	.
+tr|I6Y8R4|I6Y8R4_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0774c PE=1 SV=1	SignalP-6.0	n-region	1	12	.	.	.	.
+tr|I6Y8R4|I6Y8R4_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0774c PE=1 SV=1	SignalP-6.0	h-region	13	34	.	.	.	.
+tr|I6Y8R4|I6Y8R4_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0774c PE=1 SV=1	SignalP-6.0	c-region	35	41	.	.	.	.
+tr|I6Y8R4|I6Y8R4_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0774c PE=1 SV=1	SignalP-6.0	twin-arginine motif	10	11	.	.	.	.
+tr|O05589|O05589_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1004c PE=4 SV=2	SignalP-6.0	n-region	1	14	.	.	.	.
+tr|O05589|O05589_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1004c PE=4 SV=2	SignalP-6.0	h-region	15	32	.	.	.	.
+tr|O05589|O05589_MYCTU Probable membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1004c PE=4 SV=2	SignalP-6.0	c-region	33	44	.	.	.	.
+sp|P9WIB9|SCMU_MYCTU Secreted chorismate mutase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1885c PE=1 SV=1	SignalP-6.0	n-region	1	7	.	.	.	.
+sp|P9WIB9|SCMU_MYCTU Secreted chorismate mutase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1885c PE=1 SV=1	SignalP-6.0	h-region	8	26	.	.	.	.
+sp|P9WIB9|SCMU_MYCTU Secreted chorismate mutase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1885c PE=1 SV=1	SignalP-6.0	c-region	27	33	.	.	.	.
+sp|P9WK37|LPQB_MYCTU Lipoprotein LpqB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqB PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK37|LPQB_MYCTU Lipoprotein LpqB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqB PE=1 SV=1	SignalP-6.0	h-region	4	19	.	.	.	.
+sp|P9WK37|LPQB_MYCTU Lipoprotein LpqB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqB PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+sp|P9WKD9|KU_MYCTU Non-homologous end joining protein Ku OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mku PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WKD9|KU_MYCTU Non-homologous end joining protein Ku OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mku PE=1 SV=1	SignalP-6.0	h-region	4	16	.	.	.	.
+sp|P9WKD9|KU_MYCTU Non-homologous end joining protein Ku OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mku PE=1 SV=1	SignalP-6.0	c-region	17	22	.	.	.	.
+sp|P9WP41|CULP2_MYCTU Probable carboxylesterase Culp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut2 PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|P9WP41|CULP2_MYCTU Probable carboxylesterase Culp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut2 PE=1 SV=1	SignalP-6.0	h-region	9	28	.	.	.	.
+sp|P9WP41|CULP2_MYCTU Probable carboxylesterase Culp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut2 PE=1 SV=1	SignalP-6.0	c-region	29	43	.	.	.	.
+sp|I6YC58|MYCP4_MYCTU Mycosin-4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP4 PE=2 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|I6YC58|MYCP4_MYCTU Mycosin-4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP4 PE=2 SV=1	SignalP-6.0	h-region	6	23	.	.	.	.
+sp|I6YC58|MYCP4_MYCTU Mycosin-4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP4 PE=2 SV=1	SignalP-6.0	c-region	24	28	.	.	.	.
+tr|O07741|O07741_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1891 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O07741|O07741_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1891 PE=1 SV=1	SignalP-6.0	h-region	4	18	.	.	.	.
+tr|O07741|O07741_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1891 PE=1 SV=1	SignalP-6.0	c-region	19	24	.	.	.	.
+sp|O50440|CHP2_MYCTU Diacyltrehalose acyltransferase Chp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp2 PE=1 SV=3	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|O50440|CHP2_MYCTU Diacyltrehalose acyltransferase Chp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp2 PE=1 SV=3	SignalP-6.0	h-region	4	20	.	.	.	.
+sp|O50440|CHP2_MYCTU Diacyltrehalose acyltransferase Chp2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=chp2 PE=1 SV=3	SignalP-6.0	c-region	21	25	.	.	.	.
+tr|P72062|P72062_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=atsH PE=1 SV=2	SignalP-6.0	n-region	1	24	.	.	.	.
+tr|P72062|P72062_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=atsH PE=1 SV=2	SignalP-6.0	h-region	25	43	.	.	.	.
+tr|P72062|P72062_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=atsH PE=1 SV=2	SignalP-6.0	lipid-modified cysteine	44	44	.	.	.	.
+tr|P72062|P72062_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=atsH PE=1 SV=2	SignalP-6.0	twin-arginine motif	22	23	.	.	.	.
+tr|P96257|P96257_MYCTU Probable glutamine-binding lipoprotein GlnH (GLNBP) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=glnH PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|P96257|P96257_MYCTU Probable glutamine-binding lipoprotein GlnH (GLNBP) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=glnH PE=1 SV=1	SignalP-6.0	h-region	5	25	.	.	.	.
+tr|P96257|P96257_MYCTU Probable glutamine-binding lipoprotein GlnH (GLNBP) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=glnH PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+tr|P96265|P96265_MYCTU Possible lipoprotein peptidase LpqM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqM PE=1 SV=1	SignalP-6.0	n-region	1	18	.	.	.	.
+tr|P96265|P96265_MYCTU Possible lipoprotein peptidase LpqM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqM PE=1 SV=1	SignalP-6.0	h-region	19	38	.	.	.	.
+tr|P96265|P96265_MYCTU Possible lipoprotein peptidase LpqM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqM PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	39	39	.	.	.	.
+sp|P9WG65|MPT53_MYCTU Soluble secreted antigen MPT53 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt53 PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+sp|P9WG65|MPT53_MYCTU Soluble secreted antigen MPT53 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt53 PE=1 SV=1	SignalP-6.0	h-region	11	30	.	.	.	.
+sp|P9WG65|MPT53_MYCTU Soluble secreted antigen MPT53 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt53 PE=1 SV=1	SignalP-6.0	c-region	31	37	.	.	.	.
+sp|P9WHR3|HIP1_MYCTU Serine protease Hip1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=hip1 PE=1 SV=1	SignalP-6.0	n-region	1	13	.	.	.	.
+sp|P9WHR3|HIP1_MYCTU Serine protease Hip1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=hip1 PE=1 SV=1	SignalP-6.0	h-region	14	30	.	.	.	.
+sp|P9WHR3|HIP1_MYCTU Serine protease Hip1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=hip1 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	31	31	.	.	.	.
+sp|P9WJU1|MMPLA_MYCTU Acyltrehalose exporter MmpL10 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmpL10 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WJU1|MMPLA_MYCTU Acyltrehalose exporter MmpL10 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmpL10 PE=1 SV=1	SignalP-6.0	h-region	3	14	.	.	.	.
+sp|P9WJU1|MMPLA_MYCTU Acyltrehalose exporter MmpL10 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmpL10 PE=1 SV=1	SignalP-6.0	c-region	15	20	.	.	.	.
+tr|I6XHD1|I6XHD1_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3491 PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|I6XHD1|I6XHD1_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3491 PE=1 SV=1	SignalP-6.0	h-region	5	24	.	.	.	.
+tr|I6XHD1|I6XHD1_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3491 PE=1 SV=1	SignalP-6.0	c-region	25	31	.	.	.	.
+sp|O53638|LDT1_MYCTU L,D-transpeptidase 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtA PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|O53638|LDT1_MYCTU L,D-transpeptidase 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtA PE=1 SV=1	SignalP-6.0	h-region	4	21	.	.	.	.
+sp|O53638|LDT1_MYCTU L,D-transpeptidase 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtA PE=1 SV=1	SignalP-6.0	c-region	22	28	.	.	.	.
+sp|P9WGU5|OPPA_MYCTU Oligopeptide-binding protein OppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=oppA PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|P9WGU5|OPPA_MYCTU Oligopeptide-binding protein OppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=oppA PE=1 SV=1	SignalP-6.0	h-region	9	51	.	.	.	.
+sp|P9WGU5|OPPA_MYCTU Oligopeptide-binding protein OppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=oppA PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	52	52	.	.	.	.
+sp|P9WKV3|LDT5_MYCTU L,D-transpeptidase 5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprQ PE=1 SV=1	SignalP-6.0	n-region	1	31	.	.	.	.
+sp|P9WKV3|LDT5_MYCTU L,D-transpeptidase 5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprQ PE=1 SV=1	SignalP-6.0	h-region	32	48	.	.	.	.
+sp|P9WKV3|LDT5_MYCTU L,D-transpeptidase 5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprQ PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	49	49	.	.	.	.
+sp|P9WKV3|LDT5_MYCTU L,D-transpeptidase 5 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprQ PE=1 SV=1	SignalP-6.0	twin-arginine motif	29	30	.	.	.	.
+sp|P9WL33|Y2891_MYCTU Uncharacterized protein Rv2891 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2891 PE=3 SV=1	SignalP-6.0	n-region	1	15	.	.	.	.
+sp|P9WL33|Y2891_MYCTU Uncharacterized protein Rv2891 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2891 PE=3 SV=1	SignalP-6.0	h-region	16	30	.	.	.	.
+sp|P9WL33|Y2891_MYCTU Uncharacterized protein Rv2891 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2891 PE=3 SV=1	SignalP-6.0	c-region	31	36	.	.	.	.
+sp|P9WP43|CULP1_MYCTU Carboxylesterase Culp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut7 PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WP43|CULP1_MYCTU Carboxylesterase Culp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut7 PE=1 SV=1	SignalP-6.0	h-region	6	23	.	.	.	.
+sp|P9WP43|CULP1_MYCTU Carboxylesterase Culp1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut7 PE=1 SV=1	SignalP-6.0	c-region	24	32	.	.	.	.
+sp|P9WQN9|A85C_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpC PE=1 SV=1	SignalP-6.0	n-region	1	20	.	.	.	.
+sp|P9WQN9|A85C_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpC PE=1 SV=1	SignalP-6.0	h-region	21	40	.	.	.	.
+sp|P9WQN9|A85C_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpC PE=1 SV=1	SignalP-6.0	c-region	41	46	.	.	.	.
+tr|I6YGW2|I6YGW2_MYCTU Possible protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3668c PE=1 SV=1	SignalP-6.0	n-region	1	7	.	.	.	.
+tr|I6YGW2|I6YGW2_MYCTU Possible protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3668c PE=1 SV=1	SignalP-6.0	h-region	8	23	.	.	.	.
+tr|I6YGW2|I6YGW2_MYCTU Possible protease OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3668c PE=1 SV=1	SignalP-6.0	c-region	24	29	.	.	.	.
+tr|O50383|O50383_MYCTU DUF732 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3354 PE=1 SV=1	SignalP-6.0	n-region	1	7	.	.	.	.
+tr|O50383|O50383_MYCTU DUF732 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3354 PE=1 SV=1	SignalP-6.0	h-region	8	26	.	.	.	.
+tr|O50383|O50383_MYCTU DUF732 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3354 PE=1 SV=1	SignalP-6.0	c-region	27	32	.	.	.	.
+sp|P9WGU7|LPQW_MYCTU Probable monoacyl phosphatidylinositol tetramannoside-binding protein LpqW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqW PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WGU7|LPQW_MYCTU Probable monoacyl phosphatidylinositol tetramannoside-binding protein LpqW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqW PE=1 SV=1	SignalP-6.0	h-region	3	27	.	.	.	.
+sp|P9WGU7|LPQW_MYCTU Probable monoacyl phosphatidylinositol tetramannoside-binding protein LpqW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqW PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	28	28	.	.	.	.
+sp|P9WLQ1|MCBP_MYCTU Cellulose/chitin binding protein Rv1987 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=CBD2 PE=1 SV=1	SignalP-6.0	n-region	1	12	.	.	.	.
+sp|P9WLQ1|MCBP_MYCTU Cellulose/chitin binding protein Rv1987 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=CBD2 PE=1 SV=1	SignalP-6.0	h-region	13	32	.	.	.	.
+sp|P9WLQ1|MCBP_MYCTU Cellulose/chitin binding protein Rv1987 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=CBD2 PE=1 SV=1	SignalP-6.0	c-region	33	37	.	.	.	.
+tr|I6XI06|I6XI06_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3705c PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|I6XI06|I6XI06_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3705c PE=1 SV=1	SignalP-6.0	h-region	3	20	.	.	.	.
+tr|I6XI06|I6XI06_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3705c PE=1 SV=1	SignalP-6.0	c-region	21	25	.	.	.	.
+tr|I6Y293|I6Y293_MYCTU Probable conserved lipoprotein LppZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppZ PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|I6Y293|I6Y293_MYCTU Probable conserved lipoprotein LppZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppZ PE=1 SV=1	SignalP-6.0	h-region	3	23	.	.	.	.
+tr|I6Y293|I6Y293_MYCTU Probable conserved lipoprotein LppZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppZ PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+tr|O06624|O06624_MYCTU Possible Inv protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1566c PE=1 SV=3	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O06624|O06624_MYCTU Possible Inv protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1566c PE=1 SV=3	SignalP-6.0	h-region	4	24	.	.	.	.
+tr|O06624|O06624_MYCTU Possible Inv protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1566c PE=1 SV=3	SignalP-6.0	c-region	25	30	.	.	.	.
+sp|O07747|RPFC_MYCTU Resuscitation-promoting factor RpfC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfC PE=1 SV=3	SignalP-6.0	n-region	1	42	.	.	.	.
+sp|O07747|RPFC_MYCTU Resuscitation-promoting factor RpfC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfC PE=1 SV=3	SignalP-6.0	h-region	43	62	.	.	.	.
+sp|O07747|RPFC_MYCTU Resuscitation-promoting factor RpfC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfC PE=1 SV=3	SignalP-6.0	c-region	63	67	.	.	.	.
+tr|O53444|O53444_MYCTU Possible glycosyl hydrolase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1096 PE=1 SV=1	SignalP-6.0	n-region	1	12	.	.	.	.
+tr|O53444|O53444_MYCTU Possible glycosyl hydrolase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1096 PE=1 SV=1	SignalP-6.0	h-region	13	32	.	.	.	.
+tr|O53444|O53444_MYCTU Possible glycosyl hydrolase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1096 PE=1 SV=1	SignalP-6.0	c-region	33	38	.	.	.	.
+sp|O53859|LPQS_MYCTU Lipoprotein LpqS OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqS PE=2 SV=3	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|O53859|LPQS_MYCTU Lipoprotein LpqS OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqS PE=2 SV=3	SignalP-6.0	h-region	6	20	.	.	.	.
+sp|O53859|LPQS_MYCTU Lipoprotein LpqS OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqS PE=2 SV=3	SignalP-6.0	c-region	21	23	.	.	.	.
+sp|P9WIP1|MP63_MYCTU Immunogenic protein MPT63 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt63 PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WIP1|MP63_MYCTU Immunogenic protein MPT63 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt63 PE=1 SV=1	SignalP-6.0	h-region	6	23	.	.	.	.
+sp|P9WIP1|MP63_MYCTU Immunogenic protein MPT63 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt63 PE=1 SV=1	SignalP-6.0	c-region	24	29	.	.	.	.
+sp|P9WK61|LPQH_MYCTU Lipoprotein LpqH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqH PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK61|LPQH_MYCTU Lipoprotein LpqH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqH PE=1 SV=1	SignalP-6.0	h-region	4	21	.	.	.	.
+sp|P9WK61|LPQH_MYCTU Lipoprotein LpqH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqH PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+tr|I6X9E2|I6X9E2_MYCTU Probable conserved lipoprotein LpqO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqO PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|I6X9E2|I6X9E2_MYCTU Probable conserved lipoprotein LpqO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqO PE=1 SV=1	SignalP-6.0	h-region	5	22	.	.	.	.
+tr|I6X9E2|I6X9E2_MYCTU Probable conserved lipoprotein LpqO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqO PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+tr|I6Y461|I6Y461_MYCTU Possible Mce-family lipoprotein LprL (Mce-family lipoprotein Mce2E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprL PE=4 SV=1	SignalP-6.0	n-region	1	1	.	.	.	.
+tr|I6Y461|I6Y461_MYCTU Possible Mce-family lipoprotein LprL (Mce-family lipoprotein Mce2E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprL PE=4 SV=1	SignalP-6.0	h-region	2	45	.	.	.	.
+tr|I6Y461|I6Y461_MYCTU Possible Mce-family lipoprotein LprL (Mce-family lipoprotein Mce2E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprL PE=4 SV=1	SignalP-6.0	lipid-modified cysteine	4	46	.	.	.	.
+sp|O06319|CULP4_MYCTU Phospholipase Culp4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut4 PE=1 SV=3	SignalP-6.0	n-region	1	19	.	.	.	.
+sp|O06319|CULP4_MYCTU Phospholipase Culp4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut4 PE=1 SV=3	SignalP-6.0	h-region	20	39	.	.	.	.
+sp|O06319|CULP4_MYCTU Phospholipase Culp4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut4 PE=1 SV=3	SignalP-6.0	c-region	40	45	.	.	.	.
+tr|P95207|P95207_MYCTU Possible conserved lipoprotein LpqK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqK PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|P95207|P95207_MYCTU Possible conserved lipoprotein LpqK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqK PE=1 SV=1	SignalP-6.0	h-region	3	19	.	.	.	.
+tr|P95207|P95207_MYCTU Possible conserved lipoprotein LpqK OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqK PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+sp|P9WGU9|LPQY_MYCTU Trehalose-binding lipoprotein LpqY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqY PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WGU9|LPQY_MYCTU Trehalose-binding lipoprotein LpqY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqY PE=1 SV=1	SignalP-6.0	h-region	6	25	.	.	.	.
+sp|P9WGU9|LPQY_MYCTU Trehalose-binding lipoprotein LpqY OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqY PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+sp|P9WHU3|Y2190_MYCTU Probable endopeptidase Rv2190c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2190c PE=1 SV=1	SignalP-6.0	n-region	1	11	.	.	.	.
+sp|P9WHU3|Y2190_MYCTU Probable endopeptidase Rv2190c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2190c PE=1 SV=1	SignalP-6.0	h-region	12	30	.	.	.	.
+sp|P9WHU3|Y2190_MYCTU Probable endopeptidase Rv2190c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2190c PE=1 SV=1	SignalP-6.0	c-region	31	37	.	.	.	.
+sp|P9WK63|LPQE_MYCTU Putative lipoprotein LpqE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqE PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK63|LPQE_MYCTU Putative lipoprotein LpqE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqE PE=1 SV=1	SignalP-6.0	h-region	4	29	.	.	.	.
+sp|P9WK63|LPQE_MYCTU Putative lipoprotein LpqE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqE PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	30	30	.	.	.	.
+sp|P9WL83|Y2576_MYCTU Uncharacterized protein Rv2576c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2576c PE=1 SV=1	SignalP-6.0	n-region	1	19	.	.	.	.
+sp|P9WL83|Y2576_MYCTU Uncharacterized protein Rv2576c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2576c PE=1 SV=1	SignalP-6.0	h-region	20	39	.	.	.	.
+sp|P9WL83|Y2576_MYCTU Uncharacterized protein Rv2576c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2576c PE=1 SV=1	SignalP-6.0	c-region	40	45	.	.	.	.
+tr|O06555|O06555_MYCTU Conserved ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1157c PE=1 SV=1	SignalP-6.0	n-region	1	20	.	.	.	.
+tr|O06555|O06555_MYCTU Conserved ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1157c PE=1 SV=1	SignalP-6.0	h-region	21	39	.	.	.	.
+tr|O06555|O06555_MYCTU Conserved ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1157c PE=1 SV=1	SignalP-6.0	c-region	40	44	.	.	.	.
+sp|O06825|LDT3_MYCTU Probable L,D-transpeptidase 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1433 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|O06825|LDT3_MYCTU Probable L,D-transpeptidase 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1433 PE=1 SV=1	SignalP-6.0	h-region	3	14	.	.	.	.
+sp|O06825|LDT3_MYCTU Probable L,D-transpeptidase 3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1433 PE=1 SV=1	SignalP-6.0	c-region	15	20	.	.	.	.
+tr|O07726|O07726_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1906c PE=1 SV=3	SignalP-6.0	n-region	1	5	.	.	.	.
+tr|O07726|O07726_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1906c PE=1 SV=3	SignalP-6.0	h-region	6	27	.	.	.	.
+tr|O07726|O07726_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1906c PE=1 SV=3	SignalP-6.0	c-region	28	32	.	.	.	.
+tr|O53485|O53485_MYCTU Probable sugar-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2041c PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+tr|O53485|O53485_MYCTU Probable sugar-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2041c PE=1 SV=1	SignalP-6.0	h-region	11	29	.	.	.	.
+tr|O53485|O53485_MYCTU Probable sugar-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2041c PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	30	30	.	.	.	.
+tr|O53485|O53485_MYCTU Probable sugar-binding lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2041c PE=1 SV=1	SignalP-6.0	twin-arginine motif	8	9	.	.	.	.
+tr|P95237|P95237_MYCTU Probable conserved lipoprotein LppQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppQ PE=4 SV=1	SignalP-6.0	n-region	1	12	.	.	.	.
+tr|P95237|P95237_MYCTU Probable conserved lipoprotein LppQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppQ PE=4 SV=1	SignalP-6.0	h-region	13	31	.	.	.	.
+tr|P95237|P95237_MYCTU Probable conserved lipoprotein LppQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppQ PE=4 SV=1	SignalP-6.0	lipid-modified cysteine	32	32	.	.	.	.
+sp|P9WG31|RPFA_MYCTU Resuscitation-promoting factor RpfA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfA PE=1 SV=1	SignalP-6.0	n-region	1	12	.	.	.	.
+sp|P9WG31|RPFA_MYCTU Resuscitation-promoting factor RpfA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfA PE=1 SV=1	SignalP-6.0	h-region	13	33	.	.	.	.
+sp|P9WG31|RPFA_MYCTU Resuscitation-promoting factor RpfA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfA PE=1 SV=1	SignalP-6.0	c-region	34	38	.	.	.	.
+sp|P9WIN9|MP64_MYCTU Immunogenic protein MPT64 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt64 PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P9WIN9|MP64_MYCTU Immunogenic protein MPT64 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt64 PE=1 SV=1	SignalP-6.0	h-region	5	16	.	.	.	.
+sp|P9WIN9|MP64_MYCTU Immunogenic protein MPT64 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt64 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	17	17	.	.	.	.
+sp|P9WK65|LPPX_MYCTU Putative phthiocerol dimycocerosate transporter LppX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppX PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK65|LPPX_MYCTU Putative phthiocerol dimycocerosate transporter LppX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppX PE=1 SV=1	SignalP-6.0	h-region	4	26	.	.	.	.
+sp|P9WK65|LPPX_MYCTU Putative phthiocerol dimycocerosate transporter LppX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppX PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	27	27	.	.	.	.
+sp|P9WQN7|MPT51_MYCTU MPT51/MPB51 antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt51 PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WQN7|MPT51_MYCTU MPT51/MPB51 antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt51 PE=1 SV=1	SignalP-6.0	h-region	6	23	.	.	.	.
+sp|P9WQN7|MPT51_MYCTU MPT51/MPB51 antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt51 PE=1 SV=1	SignalP-6.0	c-region	24	26	.	.	.	.
+tr|I6X7P2|I6X7P2_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3572 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|I6X7P2|I6X7P2_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3572 PE=1 SV=1	SignalP-6.0	h-region	4	18	.	.	.	.
+tr|I6X7P2|I6X7P2_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3572 PE=1 SV=1	SignalP-6.0	c-region	19	24	.	.	.	.
+sp|O07750|LPPE_MYCTU Probable lipoprotein LppE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppE PE=1 SV=2	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|O07750|LPPE_MYCTU Probable lipoprotein LppE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppE PE=1 SV=2	SignalP-6.0	h-region	5	21	.	.	.	.
+sp|O07750|LPPE_MYCTU Probable lipoprotein LppE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppE PE=1 SV=2	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+tr|O53291|O53291_MYCTU Probable FEIII-dicitrate-binding periplasmic lipoprotein FecB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O53291|O53291_MYCTU Probable FEIII-dicitrate-binding periplasmic lipoprotein FecB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB PE=1 SV=1	SignalP-6.0	h-region	3	19	.	.	.	.
+tr|O53291|O53291_MYCTU Probable FEIII-dicitrate-binding periplasmic lipoprotein FecB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+tr|O53383|O53383_MYCTU Hypothetical proline rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3333c PE=4 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|O53383|O53383_MYCTU Hypothetical proline rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3333c PE=4 SV=1	SignalP-6.0	h-region	5	25	.	.	.	.
+tr|O53383|O53383_MYCTU Hypothetical proline rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3333c PE=4 SV=1	SignalP-6.0	c-region	26	32	.	.	.	.
+tr|O53608|O53608_MYCTU Possible oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0063 PE=1 SV=1	SignalP-6.0	n-region	1	9	.	.	.	.
+tr|O53608|O53608_MYCTU Possible oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0063 PE=1 SV=1	SignalP-6.0	h-region	10	27	.	.	.	.
+tr|O53608|O53608_MYCTU Possible oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0063 PE=1 SV=1	SignalP-6.0	c-region	28	31	.	.	.	.
+tr|O53608|O53608_MYCTU Possible oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0063 PE=1 SV=1	SignalP-6.0	twin-arginine motif	7	8	.	.	.	.
+sp|P96264|LPQL_MYCTU Probable lipoprotein aminopeptidase LpqL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqL PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P96264|LPQL_MYCTU Probable lipoprotein aminopeptidase LpqL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqL PE=1 SV=1	SignalP-6.0	h-region	5	24	.	.	.	.
+sp|P96264|LPQL_MYCTU Probable lipoprotein aminopeptidase LpqL OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqL PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+sp|P9WLF1|Y2277_MYCTU Uncharacterized protein Rv2277c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2277c PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P9WLF1|Y2277_MYCTU Uncharacterized protein Rv2277c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2277c PE=1 SV=1	SignalP-6.0	h-region	5	17	.	.	.	.
+sp|P9WLF1|Y2277_MYCTU Uncharacterized protein Rv2277c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2277c PE=1 SV=1	SignalP-6.0	c-region	18	22	.	.	.	.
+tr|I6Y3N9|I6Y3N9_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0397A PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|I6Y3N9|I6Y3N9_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0397A PE=1 SV=1	SignalP-6.0	h-region	4	23	.	.	.	.
+tr|I6Y3N9|I6Y3N9_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0397A PE=1 SV=1	SignalP-6.0	c-region	24	29	.	.	.	.
+sp|O33363|GDSL_MYCTU GDSL lipase Rv0518 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0518 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|O33363|GDSL_MYCTU GDSL lipase Rv0518 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0518 PE=1 SV=1	SignalP-6.0	h-region	4	17	.	.	.	.
+sp|O33363|GDSL_MYCTU GDSL lipase Rv0518 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0518 PE=1 SV=1	SignalP-6.0	c-region	18	20	.	.	.	.
+sp|P9WIM9|PR28_MYCTU Proline-rich 28 kDa antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtc28 PE=1 SV=1	SignalP-6.0	n-region	1	7	.	.	.	.
+sp|P9WIM9|PR28_MYCTU Proline-rich 28 kDa antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtc28 PE=1 SV=1	SignalP-6.0	h-region	8	26	.	.	.	.
+sp|P9WIM9|PR28_MYCTU Proline-rich 28 kDa antigen OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtc28 PE=1 SV=1	SignalP-6.0	c-region	27	32	.	.	.	.
+sp|P9WM47|Y1268_MYCTU Uncharacterized protein Rv1268c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1268c PE=3 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WM47|Y1268_MYCTU Uncharacterized protein Rv1268c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1268c PE=3 SV=1	SignalP-6.0	h-region	6	27	.	.	.	.
+sp|P9WM47|Y1268_MYCTU Uncharacterized protein Rv1268c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1268c PE=3 SV=1	SignalP-6.0	c-region	28	32	.	.	.	.
+tr|I6YAY5|I6YAY5_MYCTU DUF4333 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3033 PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|I6YAY5|I6YAY5_MYCTU DUF4333 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3033 PE=1 SV=1	SignalP-6.0	h-region	5	24	.	.	.	.
+tr|I6YAY5|I6YAY5_MYCTU DUF4333 domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3033 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+sp|O53168|RIPA_MYCTU Peptidoglycan endopeptidase RipA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripA PE=1 SV=1	SignalP-6.0	n-region	1	15	.	.	.	.
+sp|O53168|RIPA_MYCTU Peptidoglycan endopeptidase RipA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripA PE=1 SV=1	SignalP-6.0	h-region	16	32	.	.	.	.
+sp|O53168|RIPA_MYCTU Peptidoglycan endopeptidase RipA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripA PE=1 SV=1	SignalP-6.0	c-region	33	39	.	.	.	.
+sp|P9WGU1|PSTS1_MYCTU Phosphate-binding protein PstS 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS1 PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P9WGU1|PSTS1_MYCTU Phosphate-binding protein PstS 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS1 PE=1 SV=1	SignalP-6.0	h-region	5	23	.	.	.	.
+sp|P9WGU1|PSTS1_MYCTU Phosphate-binding protein PstS 1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=pstS1 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+sp|P9WIQ7|ERP_MYCTU Exported repetitive protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=erp PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|P9WIQ7|ERP_MYCTU Exported repetitive protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=erp PE=1 SV=1	SignalP-6.0	h-region	9	23	.	.	.	.
+sp|P9WIQ7|ERP_MYCTU Exported repetitive protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=erp PE=1 SV=1	SignalP-6.0	c-region	24	28	.	.	.	.
+sp|P9WLS1|Y1813_MYCTU Uncharacterized protein Rv1813c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1813c PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|P9WLS1|Y1813_MYCTU Uncharacterized protein Rv1813c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1813c PE=1 SV=1	SignalP-6.0	h-region	9	27	.	.	.	.
+sp|P9WLS1|Y1813_MYCTU Uncharacterized protein Rv1813c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1813c PE=1 SV=1	SignalP-6.0	c-region	28	32	.	.	.	.
+sp|P9WM15|Y1352_MYCTU Uncharacterized protein Rv1352 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1352 PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P9WM15|Y1352_MYCTU Uncharacterized protein Rv1352 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1352 PE=1 SV=1	SignalP-6.0	h-region	5	25	.	.	.	.
+sp|P9WM15|Y1352_MYCTU Uncharacterized protein Rv1352 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1352 PE=1 SV=1	SignalP-6.0	c-region	26	30	.	.	.	.
+sp|P9WN33|ASNH_MYCTU Putative asparagine synthetase [glutamine-hydrolyzing] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=asnB PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WN33|ASNH_MYCTU Putative asparagine synthetase [glutamine-hydrolyzing] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=asnB PE=1 SV=1	SignalP-6.0	h-region	3	9	.	.	.	.
+sp|P9WN33|ASNH_MYCTU Putative asparagine synthetase [glutamine-hydrolyzing] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=asnB PE=1 SV=1	SignalP-6.0	c-region	10	14	.	.	.	.
+sp|I6Y9J2|LDT2_MYCTU L,D-transpeptidase 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtB PE=1 SV=1	SignalP-6.0	n-region	1	17	.	.	.	.
+sp|I6Y9J2|LDT2_MYCTU L,D-transpeptidase 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtB PE=1 SV=1	SignalP-6.0	h-region	18	34	.	.	.	.
+sp|I6Y9J2|LDT2_MYCTU L,D-transpeptidase 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ldtB PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	35	35	.	.	.	.
+tr|O05436|O05436_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3909 PE=1 SV=1	SignalP-6.0	n-region	1	13	.	.	.	.
+tr|O05436|O05436_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3909 PE=1 SV=1	SignalP-6.0	h-region	14	31	.	.	.	.
+tr|O05436|O05436_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3909 PE=1 SV=1	SignalP-6.0	c-region	32	39	.	.	.	.
+tr|O06155|O06155_MYCTU Probable conserved lipoprotein LpqF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqF PE=4 SV=2	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O06155|O06155_MYCTU Probable conserved lipoprotein LpqF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqF PE=4 SV=2	SignalP-6.0	h-region	3	31	.	.	.	.
+tr|O06155|O06155_MYCTU Probable conserved lipoprotein LpqF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqF PE=4 SV=2	SignalP-6.0	lipid-modified cysteine	32	32	.	.	.	.
+tr|O53850|O53850_MYCTU D-alanyl-D-alanine dipeptidase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqR PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O53850|O53850_MYCTU D-alanyl-D-alanine dipeptidase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqR PE=1 SV=1	SignalP-6.0	h-region	3	22	.	.	.	.
+tr|O53850|O53850_MYCTU D-alanyl-D-alanine dipeptidase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqR PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+tr|P96226|P96226_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3851 PE=4 SV=1	SignalP-6.0	n-region	1	20	.	.	.	.
+tr|P96226|P96226_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3851 PE=4 SV=1	SignalP-6.0	h-region	21	40	.	.	.	.
+tr|P96226|P96226_MYCTU Possible membrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3851 PE=4 SV=1	SignalP-6.0	c-region	41	47	.	.	.	.
+sp|P9WLX9|Y1419_MYCTU Uncharacterized protein Rv1419 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1419 PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WLX9|Y1419_MYCTU Uncharacterized protein Rv1419 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1419 PE=1 SV=1	SignalP-6.0	h-region	6	26	.	.	.	.
+sp|P9WLX9|Y1419_MYCTU Uncharacterized protein Rv1419 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1419 PE=1 SV=1	SignalP-6.0	c-region	27	33	.	.	.	.
+sp|I6X8R5|RV203_MYCTU Heme-binding protein Rv0203 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0203 PE=1 SV=1	SignalP-6.0	n-region	1	11	.	.	.	.
+sp|I6X8R5|RV203_MYCTU Heme-binding protein Rv0203 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0203 PE=1 SV=1	SignalP-6.0	h-region	12	29	.	.	.	.
+sp|I6X8R5|RV203_MYCTU Heme-binding protein Rv0203 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0203 PE=1 SV=1	SignalP-6.0	c-region	30	36	.	.	.	.
+sp|O05458|MYCP2_MYCTU Mycosin-2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP2 PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|O05458|MYCP2_MYCTU Mycosin-2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP2 PE=1 SV=1	SignalP-6.0	h-region	9	28	.	.	.	.
+sp|O05458|MYCP2_MYCTU Mycosin-2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP2 PE=1 SV=1	SignalP-6.0	c-region	29	33	.	.	.	.
+sp|O53361|SAPM_MYCTU Phosphatidylinositol-3-phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sapM PE=1 SV=1	SignalP-6.0	n-region	1	17	.	.	.	.
+sp|O53361|SAPM_MYCTU Phosphatidylinositol-3-phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sapM PE=1 SV=1	SignalP-6.0	h-region	18	33	.	.	.	.
+sp|O53361|SAPM_MYCTU Phosphatidylinositol-3-phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sapM PE=1 SV=1	SignalP-6.0	c-region	34	43	.	.	.	.
+tr|O53963|O53963_MYCTU phosphoserine phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppF PE=3 SV=2	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O53963|O53963_MYCTU phosphoserine phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppF PE=3 SV=2	SignalP-6.0	h-region	4	20	.	.	.	.
+tr|O53963|O53963_MYCTU phosphoserine phosphatase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppF PE=3 SV=2	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+sp|P9WG29|RPFB_MYCTU Resuscitation-promoting factor RpfB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfB PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WG29|RPFB_MYCTU Resuscitation-promoting factor RpfB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfB PE=1 SV=1	SignalP-6.0	h-region	4	16	.	.	.	.
+sp|P9WG29|RPFB_MYCTU Resuscitation-promoting factor RpfB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfB PE=1 SV=1	SignalP-6.0	c-region	17	22	.	.	.	.
+sp|P9WK53|LPRB_MYCTU Putative lipoprotein LprB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprB PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P9WK53|LPRB_MYCTU Putative lipoprotein LprB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprB PE=1 SV=1	SignalP-6.0	h-region	5	24	.	.	.	.
+sp|P9WK53|LPRB_MYCTU Putative lipoprotein LprB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprB PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+sp|P9WK69|LPPP_MYCTU Putative lipoprotein LppP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppP PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WK69|LPPP_MYCTU Putative lipoprotein LppP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppP PE=1 SV=1	SignalP-6.0	h-region	6	30	.	.	.	.
+sp|P9WK69|LPPP_MYCTU Putative lipoprotein LppP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppP PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	31	31	.	.	.	.
+sp|P9WK77|LPPJ_MYCTU Putative lipoprotein LppJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppJ PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WK77|LPPJ_MYCTU Putative lipoprotein LppJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppJ PE=1 SV=1	SignalP-6.0	h-region	3	28	.	.	.	.
+sp|P9WK77|LPPJ_MYCTU Putative lipoprotein LppJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppJ PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	29	29	.	.	.	.
+tr|I6WZ30|I6WZ30_MYCTU Conserved threonine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0679c PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+tr|I6WZ30|I6WZ30_MYCTU Conserved threonine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0679c PE=1 SV=1	SignalP-6.0	h-region	11	32	.	.	.	.
+tr|I6WZ30|I6WZ30_MYCTU Conserved threonine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0679c PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	33	33	.	.	.	.
+sp|I6WZK7|MMCO_MYCTU Multicopper oxidase MmcO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmcO PE=1 SV=1	SignalP-6.0	n-region	1	20	.	.	.	.
+sp|I6WZK7|MMCO_MYCTU Multicopper oxidase MmcO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmcO PE=1 SV=1	SignalP-6.0	h-region	21	34	.	.	.	.
+sp|I6WZK7|MMCO_MYCTU Multicopper oxidase MmcO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmcO PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	35	35	.	.	.	.
+sp|I6WZK7|MMCO_MYCTU Multicopper oxidase MmcO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mmcO PE=1 SV=1	SignalP-6.0	twin-arginine motif	18	19	.	.	.	.
+sp|O53780|LPQN_MYCTU Lipoprotein LpqN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqN PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|O53780|LPQN_MYCTU Lipoprotein LpqN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqN PE=1 SV=1	SignalP-6.0	h-region	4	19	.	.	.	.
+sp|O53780|LPQN_MYCTU Lipoprotein LpqN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqN PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+tr|P71750|P71750_MYCTU Probable gamma-glutamyltranspeptidase GgtB (Gamma-glutamyltransferase) (Glutamyl transpeptidase) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ggtB PE=1 SV=2	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|P71750|P71750_MYCTU Probable gamma-glutamyltranspeptidase GgtB (Gamma-glutamyltransferase) (Glutamyl transpeptidase) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ggtB PE=1 SV=2	SignalP-6.0	h-region	3	20	.	.	.	.
+tr|P71750|P71750_MYCTU Probable gamma-glutamyltranspeptidase GgtB (Gamma-glutamyltransferase) (Glutamyl transpeptidase) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ggtB PE=1 SV=2	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+sp|P9WM17|Y1351_MYCTU Uncharacterized protein Rv1351 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1351 PE=4 SV=1	SignalP-6.0	n-region	1	34	.	.	.	.
+sp|P9WM17|Y1351_MYCTU Uncharacterized protein Rv1351 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1351 PE=4 SV=1	SignalP-6.0	h-region	35	47	.	.	.	.
+sp|P9WM17|Y1351_MYCTU Uncharacterized protein Rv1351 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1351 PE=4 SV=1	SignalP-6.0	lipid-modified cysteine	48	48	.	.	.	.
+tr|I6YGI1|I6YGI1_MYCTU Arylamine N-acetyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3566A PE=4 SV=1	SignalP-6.0	n-region	1	11	.	.	.	.
+tr|I6YGI1|I6YGI1_MYCTU Arylamine N-acetyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3566A PE=4 SV=1	SignalP-6.0	h-region	12	27	.	.	.	.
+tr|I6YGI1|I6YGI1_MYCTU Arylamine N-acetyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3566A PE=4 SV=1	SignalP-6.0	c-region	28	32	.	.	.	.
+tr|I6YGI1|I6YGI1_MYCTU Arylamine N-acetyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3566A PE=4 SV=1	SignalP-6.0	twin-arginine motif	9	10	.	.	.	.
+tr|O06392|O06392_MYCTU Possible thioredoxin protein (Thiol-disulfide interchange protein) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0526 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O06392|O06392_MYCTU Possible thioredoxin protein (Thiol-disulfide interchange protein) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0526 PE=1 SV=1	SignalP-6.0	h-region	3	30	.	.	.	.
+tr|O06392|O06392_MYCTU Possible thioredoxin protein (Thiol-disulfide interchange protein) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0526 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	31	31	.	.	.	.
+tr|O50459|O50459_MYCTU Probable lipoprotein LpqZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqZ PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+tr|O50459|O50459_MYCTU Probable lipoprotein LpqZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqZ PE=1 SV=1	SignalP-6.0	h-region	6	22	.	.	.	.
+tr|O50459|O50459_MYCTU Probable lipoprotein LpqZ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqZ PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+sp|P9WK39|LPRP_MYCTU Uncharacterized lipoprotein LprP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprP PE=3 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK39|LPRP_MYCTU Uncharacterized lipoprotein LprP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprP PE=3 SV=1	SignalP-6.0	h-region	4	21	.	.	.	.
+sp|P9WK39|LPRP_MYCTU Uncharacterized lipoprotein LprP OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprP PE=3 SV=1	SignalP-6.0	lipid-modified cysteine	22	22	.	.	.	.
+sp|P9WK43|LPRH_MYCTU Putative lipoprotein LprH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprH PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WK43|LPRH_MYCTU Putative lipoprotein LprH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprH PE=1 SV=1	SignalP-6.0	h-region	3	27	.	.	.	.
+sp|P9WK43|LPRH_MYCTU Putative lipoprotein LprH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprH PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	28	28	.	.	.	.
+sp|P9WK81|LPPA_MYCTU Putative lipoprotein LppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppA PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WK81|LPPA_MYCTU Putative lipoprotein LppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppA PE=1 SV=1	SignalP-6.0	h-region	3	32	.	.	.	.
+sp|P9WK81|LPPA_MYCTU Putative lipoprotein LppA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppA PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	33	33	.	.	.	.
+sp|P9WLE1|Y2293_MYCTU Uncharacterized protein Rv2293c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2293c PE=3 SV=1	SignalP-6.0	n-region	1	7	.	.	.	.
+sp|P9WLE1|Y2293_MYCTU Uncharacterized protein Rv2293c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2293c PE=3 SV=1	SignalP-6.0	h-region	8	18	.	.	.	.
+sp|P9WLE1|Y2293_MYCTU Uncharacterized protein Rv2293c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2293c PE=3 SV=1	SignalP-6.0	c-region	19	24	.	.	.	.
+tr|O06823|O06823_MYCTU Probable conserved proline, glycine, valine-rich secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1435c PE=1 SV=1	SignalP-6.0	n-region	1	9	.	.	.	.
+tr|O06823|O06823_MYCTU Probable conserved proline, glycine, valine-rich secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1435c PE=1 SV=1	SignalP-6.0	h-region	10	27	.	.	.	.
+tr|O06823|O06823_MYCTU Probable conserved proline, glycine, valine-rich secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1435c PE=1 SV=1	SignalP-6.0	c-region	28	33	.	.	.	.
+tr|O07242|O07242_MYCTU Possible beta-1,3-glucanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0315 PE=1 SV=1	SignalP-6.0	n-region	1	11	.	.	.	.
+tr|O07242|O07242_MYCTU Possible beta-1,3-glucanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0315 PE=1 SV=1	SignalP-6.0	h-region	12	26	.	.	.	.
+tr|O07242|O07242_MYCTU Possible beta-1,3-glucanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0315 PE=1 SV=1	SignalP-6.0	c-region	27	31	.	.	.	.
+tr|O07242|O07242_MYCTU Possible beta-1,3-glucanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0315 PE=1 SV=1	SignalP-6.0	twin-arginine motif	9	10	.	.	.	.
+tr|O50382|O50382_MYCTU Oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3353c PE=4 SV=2	SignalP-6.0	n-region	1	5	.	.	.	.
+tr|O50382|O50382_MYCTU Oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3353c PE=4 SV=2	SignalP-6.0	h-region	6	24	.	.	.	.
+tr|O50382|O50382_MYCTU Oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3353c PE=4 SV=2	SignalP-6.0	c-region	25	27	.	.	.	.
+tr|O50382|O50382_MYCTU Oxidoreductase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3353c PE=4 SV=2	SignalP-6.0	twin-arginine motif	3	4	.	.	.	.
+sp|O86365|Y584_MYCTU Uncharacterized glycosidase Rv0584 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0584 PE=3 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|O86365|Y584_MYCTU Uncharacterized glycosidase Rv0584 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0584 PE=3 SV=1	SignalP-6.0	h-region	9	27	.	.	.	.
+sp|O86365|Y584_MYCTU Uncharacterized glycosidase Rv0584 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0584 PE=3 SV=1	SignalP-6.0	c-region	28	32	.	.	.	.
+tr|P71619|P71619_MYCTU Probable Sn-glycerol-3-phosphate-binding lipoprotein UgpB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ugpB PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+tr|P71619|P71619_MYCTU Probable Sn-glycerol-3-phosphate-binding lipoprotein UgpB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ugpB PE=1 SV=1	SignalP-6.0	h-region	9	22	.	.	.	.
+tr|P71619|P71619_MYCTU Probable Sn-glycerol-3-phosphate-binding lipoprotein UgpB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ugpB PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+tr|P71619|P71619_MYCTU Probable Sn-glycerol-3-phosphate-binding lipoprotein UgpB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ugpB PE=1 SV=1	SignalP-6.0	twin-arginine motif	6	7	.	.	.	.
+tr|P71655|P71655_MYCTU Probable conserved lipoprotein LppV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppV PE=4 SV=4	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|P71655|P71655_MYCTU Probable conserved lipoprotein LppV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppV PE=4 SV=4	SignalP-6.0	h-region	3	18	.	.	.	.
+tr|P71655|P71655_MYCTU Probable conserved lipoprotein LppV OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppV PE=4 SV=4	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+tr|P96378|P96378_MYCTU Probable conserved lipoprotein LpqU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqU PE=1 SV=4	SignalP-6.0	n-region	1	5	.	.	.	.
+tr|P96378|P96378_MYCTU Probable conserved lipoprotein LpqU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqU PE=1 SV=4	SignalP-6.0	h-region	6	23	.	.	.	.
+tr|P96378|P96378_MYCTU Probable conserved lipoprotein LpqU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqU PE=1 SV=4	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+sp|P96419|AFTD_MYCTU Alpha-(1->3)-arabinofuranosyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=aftD PE=1 SV=2	SignalP-6.0	n-region	1	7	.	.	.	.
+sp|P96419|AFTD_MYCTU Alpha-(1->3)-arabinofuranosyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=aftD PE=1 SV=2	SignalP-6.0	h-region	8	21	.	.	.	.
+sp|P96419|AFTD_MYCTU Alpha-(1->3)-arabinofuranosyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=aftD PE=1 SV=2	SignalP-6.0	c-region	22	30	.	.	.	.
+sp|P9WL81|Y2577_MYCTU Uncharacterized protein Rv2577 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2577 PE=3 SV=1	SignalP-6.0	n-region	1	23	.	.	.	.
+sp|P9WL81|Y2577_MYCTU Uncharacterized protein Rv2577 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2577 PE=3 SV=1	SignalP-6.0	h-region	24	44	.	.	.	.
+sp|P9WL81|Y2577_MYCTU Uncharacterized protein Rv2577 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2577 PE=3 SV=1	SignalP-6.0	c-region	45	48	.	.	.	.
+sp|P9WL81|Y2577_MYCTU Uncharacterized protein Rv2577 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2577 PE=3 SV=1	SignalP-6.0	twin-arginine motif	21	22	.	.	.	.
+tr|O33224|O33224_MYCTU Probable lipoprotein LpqX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqX PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O33224|O33224_MYCTU Probable lipoprotein LpqX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqX PE=1 SV=1	SignalP-6.0	h-region	4	19	.	.	.	.
+tr|O33224|O33224_MYCTU Probable lipoprotein LpqX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqX PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+tr|O53948|O53948_MYCTU Probable lipoprotein LppT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppT PE=4 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+tr|O53948|O53948_MYCTU Probable lipoprotein LppT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppT PE=4 SV=1	SignalP-6.0	h-region	11	31	.	.	.	.
+tr|O53948|O53948_MYCTU Probable lipoprotein LppT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppT PE=4 SV=1	SignalP-6.0	lipid-modified cysteine	32	32	.	.	.	.
+sp|P96809|FHMAD_MYCTU F420-dependent hydroxymycolic acid dehydrogenase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fgd2 PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|P96809|FHMAD_MYCTU F420-dependent hydroxymycolic acid dehydrogenase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fgd2 PE=1 SV=1	SignalP-6.0	h-region	9	26	.	.	.	.
+sp|P96809|FHMAD_MYCTU F420-dependent hydroxymycolic acid dehydrogenase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fgd2 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	27	27	.	.	.	.
+sp|P96809|FHMAD_MYCTU F420-dependent hydroxymycolic acid dehydrogenase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fgd2 PE=1 SV=1	SignalP-6.0	twin-arginine motif	6	7	.	.	.	.
+sp|P9WK73|LPPN_MYCTU Putative lipoprotein LppN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppN PE=3 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WK73|LPPN_MYCTU Putative lipoprotein LppN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppN PE=3 SV=1	SignalP-6.0	h-region	3	20	.	.	.	.
+sp|P9WK73|LPPN_MYCTU Putative lipoprotein LppN OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppN PE=3 SV=1	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+sp|P9WLG7|Y2240_MYCTU Uncharacterized protein Rv2240c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2240c PE=1 SV=1	SignalP-6.0	n-region	1	19	.	.	.	.
+sp|P9WLG7|Y2240_MYCTU Uncharacterized protein Rv2240c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2240c PE=1 SV=1	SignalP-6.0	h-region	20	36	.	.	.	.
+sp|P9WLG7|Y2240_MYCTU Uncharacterized protein Rv2240c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2240c PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	37	37	.	.	.	.
+sp|P9WP39|CULP3_MYCTU Probable carboxylesterase Culp3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut3 PE=1 SV=1	SignalP-6.0	n-region	1	13	.	.	.	.
+sp|P9WP39|CULP3_MYCTU Probable carboxylesterase Culp3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut3 PE=1 SV=1	SignalP-6.0	h-region	14	35	.	.	.	.
+sp|P9WP39|CULP3_MYCTU Probable carboxylesterase Culp3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut3 PE=1 SV=1	SignalP-6.0	c-region	36	41	.	.	.	.
+sp|P9WP69|COX2_MYCTU Cytochrome c oxidase subunit 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ctaC PE=1 SV=1	SignalP-6.0	n-region	1	23	.	.	.	.
+sp|P9WP69|COX2_MYCTU Cytochrome c oxidase subunit 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ctaC PE=1 SV=1	SignalP-6.0	h-region	24	46	.	.	.	.
+sp|P9WP69|COX2_MYCTU Cytochrome c oxidase subunit 2 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ctaC PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	47	47	.	.	.	.
+tr|I6XFA6|I6XFA6_MYCTU Probable lipoprotein LppU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppU PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|I6XFA6|I6XFA6_MYCTU Probable lipoprotein LppU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppU PE=1 SV=1	SignalP-6.0	h-region	3	18	.	.	.	.
+tr|I6XFA6|I6XFA6_MYCTU Probable lipoprotein LppU OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppU PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+tr|L7N6B2|L7N6B2_MYCTU Probable periplasmic iron-transport lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB2 PE=1 SV=1	SignalP-6.0	n-region	1	9	.	.	.	.
+tr|L7N6B2|L7N6B2_MYCTU Probable periplasmic iron-transport lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB2 PE=1 SV=1	SignalP-6.0	h-region	10	25	.	.	.	.
+tr|L7N6B2|L7N6B2_MYCTU Probable periplasmic iron-transport lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB2 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	26	26	.	.	.	.
+tr|L7N6B2|L7N6B2_MYCTU Probable periplasmic iron-transport lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fecB2 PE=1 SV=1	SignalP-6.0	twin-arginine motif	7	8	.	.	.	.
+tr|O53716|O53716_MYCTU Lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0381c PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O53716|O53716_MYCTU Lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0381c PE=1 SV=1	SignalP-6.0	h-region	3	20	.	.	.	.
+tr|O53716|O53716_MYCTU Lipoprotein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0381c PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+sp|P9WGE9|SODC_MYCTU Superoxide dismutase [Cu-Zn] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sodC PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WGE9|SODC_MYCTU Superoxide dismutase [Cu-Zn] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sodC PE=1 SV=1	SignalP-6.0	h-region	4	32	.	.	.	.
+sp|P9WGE9|SODC_MYCTU Superoxide dismutase [Cu-Zn] OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=sodC PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	33	33	.	.	.	.
+sp|P9WQP1|A85B_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpB PE=1 SV=1	SignalP-6.0	n-region	1	15	.	.	.	.
+sp|P9WQP1|A85B_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpB PE=1 SV=1	SignalP-6.0	h-region	16	34	.	.	.	.
+sp|P9WQP1|A85B_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpB PE=1 SV=1	SignalP-6.0	c-region	35	40	.	.	.	.
+sp|P9WQP1|A85B_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpB PE=1 SV=1	SignalP-6.0	twin-arginine motif	13	14	.	.	.	.
+tr|I6YAE2|I6YAE2_MYCTU Probable conserved transmembrane alanine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2843 PE=1 SV=1	SignalP-6.0	n-region	1	20	.	.	.	.
+tr|I6YAE2|I6YAE2_MYCTU Probable conserved transmembrane alanine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2843 PE=1 SV=1	SignalP-6.0	h-region	21	36	.	.	.	.
+tr|I6YAE2|I6YAE2_MYCTU Probable conserved transmembrane alanine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2843 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	37	37	.	.	.	.
+tr|I6YAE2|I6YAE2_MYCTU Probable conserved transmembrane alanine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2843 PE=1 SV=1	SignalP-6.0	twin-arginine motif	18	19	.	.	.	.
+sp|O53380|DACB1_MYCTU D-alanyl-D-alanine carboxypeptidase DacB1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB1 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|O53380|DACB1_MYCTU D-alanyl-D-alanine carboxypeptidase DacB1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB1 PE=1 SV=1	SignalP-6.0	h-region	3	23	.	.	.	.
+sp|O53380|DACB1_MYCTU D-alanyl-D-alanine carboxypeptidase DacB1 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=dacB1 PE=1 SV=1	SignalP-6.0	c-region	24	28	.	.	.	.
+sp|O53505|LPPM_MYCTU Protein LppM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppM PE=1 SV=3	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|O53505|LPPM_MYCTU Protein LppM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppM PE=1 SV=3	SignalP-6.0	h-region	4	24	.	.	.	.
+sp|O53505|LPPM_MYCTU Protein LppM OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppM PE=1 SV=3	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+sp|P9WIB5|PHLA_MYCTU Phospholipase C A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcA PE=1 SV=1	SignalP-6.0	n-region	1	13	.	.	.	.
+sp|P9WIB5|PHLA_MYCTU Phospholipase C A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcA PE=1 SV=1	SignalP-6.0	h-region	14	35	.	.	.	.
+sp|P9WIB5|PHLA_MYCTU Phospholipase C A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcA PE=1 SV=1	SignalP-6.0	c-region	36	40	.	.	.	.
+sp|P9WIB5|PHLA_MYCTU Phospholipase C A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcA PE=1 SV=1	SignalP-6.0	twin-arginine motif	11	12	.	.	.	.
+sp|P9WIN7|MTB12_MYCTU Low molecular weight antigen MTB12 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtb12 PE=1 SV=1	SignalP-6.0	n-region	1	6	.	.	.	.
+sp|P9WIN7|MTB12_MYCTU Low molecular weight antigen MTB12 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtb12 PE=1 SV=1	SignalP-6.0	h-region	7	24	.	.	.	.
+sp|P9WIN7|MTB12_MYCTU Low molecular weight antigen MTB12 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mtb12 PE=1 SV=1	SignalP-6.0	c-region	25	29	.	.	.	.
+sp|P9WLL5|Y2075_MYCTU Uncharacterized protein Rv2075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2075c PE=4 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WLL5|Y2075_MYCTU Uncharacterized protein Rv2075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2075c PE=4 SV=1	SignalP-6.0	h-region	6	24	.	.	.	.
+sp|P9WLL5|Y2075_MYCTU Uncharacterized protein Rv2075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2075c PE=4 SV=1	SignalP-6.0	c-region	25	30	.	.	.	.
+sp|P9WM33|Y1291_MYCTU Uncharacterized protein Rv1291c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1291c PE=4 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WM33|Y1291_MYCTU Uncharacterized protein Rv1291c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1291c PE=4 SV=1	SignalP-6.0	h-region	6	28	.	.	.	.
+sp|P9WM33|Y1291_MYCTU Uncharacterized protein Rv1291c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1291c PE=4 SV=1	SignalP-6.0	c-region	29	33	.	.	.	.
+tr|O53179|O53179_MYCTU Uncharacterized protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2452c PE=4 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+tr|O53179|O53179_MYCTU Uncharacterized protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2452c PE=4 SV=1	SignalP-6.0	h-region	6	18	.	.	.	.
+tr|O53179|O53179_MYCTU Uncharacterized protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2452c PE=4 SV=1	SignalP-6.0	c-region	19	27	.	.	.	.
+tr|O53971|O53971_MYCTU Possible Mce-family lipoprotein LprM (Mce-family lipoprotein Mce3E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprM PE=4 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O53971|O53971_MYCTU Possible Mce-family lipoprotein LprM (Mce-family lipoprotein Mce3E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprM PE=4 SV=1	SignalP-6.0	h-region	3	16	.	.	.	.
+tr|O53971|O53971_MYCTU Possible Mce-family lipoprotein LprM (Mce-family lipoprotein Mce3E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprM PE=4 SV=1	SignalP-6.0	lipid-modified cysteine	17	17	.	.	.	.
+sp|P9WHU5|RIPB_MYCTU Peptidoglycan endopeptidase RipB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripB PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+sp|P9WHU5|RIPB_MYCTU Peptidoglycan endopeptidase RipB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripB PE=1 SV=1	SignalP-6.0	h-region	9	25	.	.	.	.
+sp|P9WHU5|RIPB_MYCTU Peptidoglycan endopeptidase RipB OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=ripB PE=1 SV=1	SignalP-6.0	c-region	26	31	.	.	.	.
+sp|P9WK41|LPRI_MYCTU Lipoprotein LprI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprI PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WK41|LPRI_MYCTU Lipoprotein LprI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprI PE=1 SV=1	SignalP-6.0	h-region	3	15	.	.	.	.
+sp|P9WK41|LPRI_MYCTU Lipoprotein LprI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprI PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	16	16	.	.	.	.
+sp|P9WL77|Y2585_MYCTU Uncharacterized lipoprotein Rv2585c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2585c PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+sp|P9WL77|Y2585_MYCTU Uncharacterized lipoprotein Rv2585c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2585c PE=1 SV=1	SignalP-6.0	h-region	11	30	.	.	.	.
+sp|P9WL77|Y2585_MYCTU Uncharacterized lipoprotein Rv2585c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2585c PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	31	31	.	.	.	.
+sp|P9WM43|Y1271_MYCTU Uncharacterized protein Rv1271c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1271c PE=3 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P9WM43|Y1271_MYCTU Uncharacterized protein Rv1271c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1271c PE=3 SV=1	SignalP-6.0	h-region	5	27	.	.	.	.
+sp|P9WM43|Y1271_MYCTU Uncharacterized protein Rv1271c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1271c PE=3 SV=1	SignalP-6.0	c-region	28	34	.	.	.	.
+sp|P9WNF3|MP83_MYCTU Cell surface glycolipoprotein MPT83 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt83 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WNF3|MP83_MYCTU Cell surface glycolipoprotein MPT83 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt83 PE=1 SV=1	SignalP-6.0	h-region	4	24	.	.	.	.
+sp|P9WNF3|MP83_MYCTU Cell surface glycolipoprotein MPT83 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt83 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+sp|I6YF08|ESTR2_MYCTU Esterase Rv3036c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB22.2 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|I6YF08|ESTR2_MYCTU Esterase Rv3036c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB22.2 PE=1 SV=1	SignalP-6.0	h-region	3	18	.	.	.	.
+sp|I6YF08|ESTR2_MYCTU Esterase Rv3036c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB22.2 PE=1 SV=1	SignalP-6.0	c-region	19	22	.	.	.	.
+tr|I6YGJ4|I6YGJ4_MYCTU Possible conserved lipoprotein LppH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppH PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|I6YGJ4|I6YGJ4_MYCTU Possible conserved lipoprotein LppH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppH PE=1 SV=1	SignalP-6.0	h-region	5	20	.	.	.	.
+tr|I6YGJ4|I6YGJ4_MYCTU Possible conserved lipoprotein LppH OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppH PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	21	21	.	.	.	.
+sp|L7N6B0|LPQI_MYCTU Beta-hexosaminidase LpqI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqI PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|L7N6B0|LPQI_MYCTU Beta-hexosaminidase LpqI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqI PE=1 SV=1	SignalP-6.0	h-region	3	19	.	.	.	.
+sp|L7N6B0|LPQI_MYCTU Beta-hexosaminidase LpqI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqI PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+tr|O06556|O06556_MYCTU Conserved hypothetical ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1158c PE=4 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O06556|O06556_MYCTU Conserved hypothetical ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1158c PE=4 SV=1	SignalP-6.0	h-region	4	24	.	.	.	.
+tr|O06556|O06556_MYCTU Conserved hypothetical ala-, pro-rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1158c PE=4 SV=1	SignalP-6.0	c-region	25	29	.	.	.	.
+tr|O69725|O69725_MYCTU Possible osmoprotectant (Glycine betaine/carnitine/choline/L-proline) binding lipoprotein ProX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=proX PE=1 SV=1	SignalP-6.0	n-region	1	8	.	.	.	.
+tr|O69725|O69725_MYCTU Possible osmoprotectant (Glycine betaine/carnitine/choline/L-proline) binding lipoprotein ProX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=proX PE=1 SV=1	SignalP-6.0	h-region	9	26	.	.	.	.
+tr|O69725|O69725_MYCTU Possible osmoprotectant (Glycine betaine/carnitine/choline/L-proline) binding lipoprotein ProX OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=proX PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	27	27	.	.	.	.
+tr|P71744|P71744_MYCTU Probable sulfate-binding lipoprotein SubI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=subI PE=1 SV=1	SignalP-6.0	n-region	1	19	.	.	.	.
+tr|P71744|P71744_MYCTU Probable sulfate-binding lipoprotein SubI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=subI PE=1 SV=1	SignalP-6.0	h-region	20	37	.	.	.	.
+tr|P71744|P71744_MYCTU Probable sulfate-binding lipoprotein SubI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=subI PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	38	38	.	.	.	.
+sp|P9WK67|LPPW_MYCTU Putative lipoprotein LppW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppW PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WK67|LPPW_MYCTU Putative lipoprotein LppW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppW PE=1 SV=1	SignalP-6.0	h-region	3	22	.	.	.	.
+sp|P9WK67|LPPW_MYCTU Putative lipoprotein LppW OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppW PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+tr|Q79F96|Q79F96_MYCTU Peptidoglycan recognition protein family domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=csp PE=3 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|Q79F96|Q79F96_MYCTU Peptidoglycan recognition protein family domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=csp PE=3 SV=1	SignalP-6.0	h-region	3	12	.	.	.	.
+tr|Q79F96|Q79F96_MYCTU Peptidoglycan recognition protein family domain-containing protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=csp PE=3 SV=1	SignalP-6.0	c-region	13	19	.	.	.	.
+tr|Q79FG2|Q79FG2_MYCTU Hypothetical glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2307B PE=1 SV=1	SignalP-6.0	n-region	1	37	.	.	.	.
+tr|Q79FG2|Q79FG2_MYCTU Hypothetical glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2307B PE=1 SV=1	SignalP-6.0	h-region	4	55	.	.	.	.
+tr|Q79FG2|Q79FG2_MYCTU Hypothetical glycine rich protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2307B PE=1 SV=1	SignalP-6.0	c-region	5	59	.	.	.	.
+tr|I6Y4F1|I6Y4F1_MYCTU Probable conserved transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0680c PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|I6Y4F1|I6Y4F1_MYCTU Probable conserved transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0680c PE=1 SV=1	SignalP-6.0	h-region	3	23	.	.	.	.
+tr|I6Y4F1|I6Y4F1_MYCTU Probable conserved transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0680c PE=1 SV=1	SignalP-6.0	c-region	24	30	.	.	.	.
+sp|O53177|RPFE_MYCTU Resuscitation-promoting factor RpfE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfE PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|O53177|RPFE_MYCTU Resuscitation-promoting factor RpfE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfE PE=1 SV=1	SignalP-6.0	h-region	6	23	.	.	.	.
+sp|O53177|RPFE_MYCTU Resuscitation-promoting factor RpfE OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=rpfE PE=1 SV=1	SignalP-6.0	c-region	24	28	.	.	.	.
+sp|O53423|GDSLL_MYCTU GDSL-like esterase Rv1075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1075c PE=1 SV=3	SignalP-6.0	n-region	1	6	.	.	.	.
+sp|O53423|GDSLL_MYCTU GDSL-like esterase Rv1075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1075c PE=1 SV=3	SignalP-6.0	h-region	7	22	.	.	.	.
+sp|O53423|GDSLL_MYCTU GDSL-like esterase Rv1075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1075c PE=1 SV=3	SignalP-6.0	c-region	23	33	.	.	.	.
+sp|O53423|GDSLL_MYCTU GDSL-like esterase Rv1075c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1075c PE=1 SV=3	SignalP-6.0	twin-arginine motif	4	5	.	.	.	.
+tr|O53846|O53846_MYCTU Possible lipoprotein LpqQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqQ PE=1 SV=3	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O53846|O53846_MYCTU Possible lipoprotein LpqQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqQ PE=1 SV=3	SignalP-6.0	h-region	3	22	.	.	.	.
+tr|O53846|O53846_MYCTU Possible lipoprotein LpqQ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqQ PE=1 SV=3	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+tr|P96903|P96903_MYCTU Possible esterase lipoprotein LpqC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqC PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|P96903|P96903_MYCTU Possible esterase lipoprotein LpqC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqC PE=1 SV=1	SignalP-6.0	h-region	3	18	.	.	.	.
+tr|P96903|P96903_MYCTU Possible esterase lipoprotein LpqC OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqC PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	19	19	.	.	.	.
+sp|P9WIB3|PHLB_MYCTU Phospholipase C B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcB PE=1 SV=1	SignalP-6.0	n-region	1	14	.	.	.	.
+sp|P9WIB3|PHLB_MYCTU Phospholipase C B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcB PE=1 SV=1	SignalP-6.0	h-region	15	36	.	.	.	.
+sp|P9WIB3|PHLB_MYCTU Phospholipase C B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcB PE=1 SV=1	SignalP-6.0	c-region	37	41	.	.	.	.
+sp|P9WIB3|PHLB_MYCTU Phospholipase C B OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcB PE=1 SV=1	SignalP-6.0	twin-arginine motif	12	13	.	.	.	.
+tr|O53489|O53489_MYCTU Probable lipoprotein LppI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppI PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O53489|O53489_MYCTU Probable lipoprotein LppI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppI PE=1 SV=1	SignalP-6.0	h-region	3	15	.	.	.	.
+tr|O53489|O53489_MYCTU Probable lipoprotein LppI OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppI PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	16	16	.	.	.	.
+sp|P9WKQ1|SMASE_MYCTU Sphingomyelinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=spmT PE=1 SV=1	SignalP-6.0	n-region	1	6	.	.	.	.
+sp|P9WKQ1|SMASE_MYCTU Sphingomyelinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=spmT PE=1 SV=1	SignalP-6.0	h-region	7	25	.	.	.	.
+sp|P9WKQ1|SMASE_MYCTU Sphingomyelinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=spmT PE=1 SV=1	SignalP-6.0	c-region	26	31	.	.	.	.
+tr|Q79FZ8|Q79FZ8_MYCTU Conserved secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0192A PE=4 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+tr|Q79FZ8|Q79FZ8_MYCTU Conserved secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0192A PE=4 SV=1	SignalP-6.0	h-region	11	29	.	.	.	.
+tr|Q79FZ8|Q79FZ8_MYCTU Conserved secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0192A PE=4 SV=1	SignalP-6.0	c-region	30	35	.	.	.	.
+sp|P9WKE7|KHSE_MYCTU Homoserine kinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=thrB PE=1 SV=1	SignalP-6.0	n-region	1	4	.	.	.	.
+sp|P9WKE7|KHSE_MYCTU Homoserine kinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=thrB PE=1 SV=1	SignalP-6.0	h-region	5	17	.	.	.	.
+sp|P9WKE7|KHSE_MYCTU Homoserine kinase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=thrB PE=1 SV=1	SignalP-6.0	c-region	18	24	.	.	.	.
+tr|Q79FA5|Q79FA5_MYCTU Probable cutinase [first part] Cut5a OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut5a PE=4 SV=1	SignalP-6.0	n-region	1	9	.	.	.	.
+tr|Q79FA5|Q79FA5_MYCTU Probable cutinase [first part] Cut5a OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut5a PE=4 SV=1	SignalP-6.0	h-region	10	28	.	.	.	.
+tr|Q79FA5|Q79FA5_MYCTU Probable cutinase [first part] Cut5a OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=cut5a PE=4 SV=1	SignalP-6.0	c-region	29	35	.	.	.	.
+tr|O07236|O07236_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0309 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O07236|O07236_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0309 PE=1 SV=1	SignalP-6.0	h-region	4	15	.	.	.	.
+tr|O07236|O07236_MYCTU Possible conserved exported protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0309 PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	16	16	.	.	.	.
+tr|O33364|O33364_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0519c PE=1 SV=1	SignalP-6.0	n-region	1	26	.	.	.	.
+tr|O33364|O33364_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0519c PE=1 SV=1	SignalP-6.0	h-region	27	49	.	.	.	.
+tr|O33364|O33364_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0519c PE=1 SV=1	SignalP-6.0	c-region	50	55	.	.	.	.
+tr|O33364|O33364_MYCTU Acyl-CoA:diacylglycerol acyltransferase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0519c PE=1 SV=1	SignalP-6.0	twin-arginine motif	24	25	.	.	.	.
+tr|O07417|O07417_MYCTU Possible Mce-family lipoprotein LprK (Mce-family lipoprotein Mce1E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprK PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O07417|O07417_MYCTU Possible Mce-family lipoprotein LprK (Mce-family lipoprotein Mce1E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprK PE=1 SV=1	SignalP-6.0	h-region	4	30	.	.	.	.
+tr|O07417|O07417_MYCTU Possible Mce-family lipoprotein LprK (Mce-family lipoprotein Mce1E) OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprK PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	31	31	.	.	.	.
+tr|O53527|O53527_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2253 PE=1 SV=1	SignalP-6.0	n-region	1	7	.	.	.	.
+tr|O53527|O53527_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2253 PE=1 SV=1	SignalP-6.0	h-region	8	22	.	.	.	.
+tr|O53527|O53527_MYCTU Secreted protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2253 PE=1 SV=1	SignalP-6.0	c-region	23	28	.	.	.	.
+sp|O53695|MYCP3_MYCTU Mycosin-3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP3 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|O53695|MYCP3_MYCTU Mycosin-3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP3 PE=1 SV=1	SignalP-6.0	h-region	4	19	.	.	.	.
+sp|O53695|MYCP3_MYCTU Mycosin-3 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mycP3 PE=1 SV=1	SignalP-6.0	c-region	20	25	.	.	.	.
+tr|P94983|P94983_MYCTU Probable transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1648 PE=4 SV=1	SignalP-6.0	n-region	1	11	.	.	.	.
+tr|P94983|P94983_MYCTU Probable transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1648 PE=4 SV=1	SignalP-6.0	h-region	12	31	.	.	.	.
+tr|P94983|P94983_MYCTU Probable transmembrane protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1648 PE=4 SV=1	SignalP-6.0	c-region	32	38	.	.	.	.
+sp|P9WFJ5|Y2345_MYCTU UPF0603 protein Rv2345 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2345 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WFJ5|Y2345_MYCTU UPF0603 protein Rv2345 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2345 PE=1 SV=1	SignalP-6.0	h-region	3	20	.	.	.	.
+sp|P9WFJ5|Y2345_MYCTU UPF0603 protein Rv2345 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv2345 PE=1 SV=1	SignalP-6.0	c-region	21	26	.	.	.	.
+sp|P9WFN5|Y1910_MYCTU UPF0098 protein Rv1910c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1910c PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+sp|P9WFN5|Y1910_MYCTU UPF0098 protein Rv1910c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1910c PE=1 SV=1	SignalP-6.0	h-region	3	27	.	.	.	.
+sp|P9WFN5|Y1910_MYCTU UPF0098 protein Rv1910c OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1910c PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	28	28	.	.	.	.
+sp|P9WNF5|MP70_MYCTU Immunogenic protein MPT70 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt70 PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+sp|P9WNF5|MP70_MYCTU Immunogenic protein MPT70 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt70 PE=1 SV=1	SignalP-6.0	h-region	6	24	.	.	.	.
+sp|P9WNF5|MP70_MYCTU Immunogenic protein MPT70 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=mpt70 PE=1 SV=1	SignalP-6.0	c-region	25	30	.	.	.	.
+tr|O53953|O53953_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1804c PE=4 SV=3	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O53953|O53953_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1804c PE=4 SV=3	SignalP-6.0	h-region	3	18	.	.	.	.
+tr|O53953|O53953_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1804c PE=4 SV=3	SignalP-6.0	c-region	19	22	.	.	.	.
+tr|P71740|P71740_MYCTU Probable conserved lipoprotein LppR OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppR PE=1 SV=2	SignalP-6.0	n-region	1	4	.	.	.	.
+tr|P71740|P71740_MYCTU Probable conserved lipoprotein LppR OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppR PE=1 SV=2	SignalP-6.0	h-region	5	19	.	.	.	.
+tr|P71740|P71740_MYCTU Probable conserved lipoprotein LppR OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppR PE=1 SV=2	SignalP-6.0	lipid-modified cysteine	20	20	.	.	.	.
+sp|P9WK55|LPRA_MYCTU Lipoprotein LprA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprA PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK55|LPRA_MYCTU Lipoprotein LprA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprA PE=1 SV=1	SignalP-6.0	h-region	4	24	.	.	.	.
+sp|P9WK55|LPRA_MYCTU Lipoprotein LprA OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprA PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	25	25	.	.	.	.
+sp|P9WK59|LPQT_MYCTU Putative lipoprotein LpqT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqT PE=1 SV=1	SignalP-6.0	n-region	1	9	.	.	.	.
+sp|P9WK59|LPQT_MYCTU Putative lipoprotein LpqT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqT PE=1 SV=1	SignalP-6.0	h-region	10	29	.	.	.	.
+sp|P9WK59|LPQT_MYCTU Putative lipoprotein LpqT OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqT PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	30	30	.	.	.	.
+sp|P9WLR9|Y1815_MYCTU Uncharacterized protein Rv1815 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1815 PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WLR9|Y1815_MYCTU Uncharacterized protein Rv1815 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1815 PE=1 SV=1	SignalP-6.0	h-region	4	21	.	.	.	.
+sp|P9WLR9|Y1815_MYCTU Uncharacterized protein Rv1815 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv1815 PE=1 SV=1	SignalP-6.0	c-region	22	27	.	.	.	.
+sp|P9WQP3|A85A_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpA PE=1 SV=1	SignalP-6.0	n-region	1	18	.	.	.	.
+sp|P9WQP3|A85A_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpA PE=1 SV=1	SignalP-6.0	h-region	19	37	.	.	.	.
+sp|P9WQP3|A85A_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpA PE=1 SV=1	SignalP-6.0	c-region	38	43	.	.	.	.
+sp|P9WQP3|A85A_MYCTU Diacylglycerol acyltransferase/mycolyltransferase Ag85A OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=fbpA PE=1 SV=1	SignalP-6.0	twin-arginine motif	16	17	.	.	.	.
+tr|I6YB54|I6YB54_MYCTU 1,4-beta-xylanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3096 PE=1 SV=1	SignalP-6.0	n-region	1	5	.	.	.	.
+tr|I6YB54|I6YB54_MYCTU 1,4-beta-xylanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3096 PE=1 SV=1	SignalP-6.0	h-region	6	21	.	.	.	.
+tr|I6YB54|I6YB54_MYCTU 1,4-beta-xylanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3096 PE=1 SV=1	SignalP-6.0	c-region	22	27	.	.	.	.
+tr|I6YB54|I6YB54_MYCTU 1,4-beta-xylanase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv3096 PE=1 SV=1	SignalP-6.0	twin-arginine motif	3	4	.	.	.	.
+tr|O06295|O06295_MYCTU Probable lipoprotein LpqJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqJ PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O06295|O06295_MYCTU Probable lipoprotein LpqJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqJ PE=1 SV=1	SignalP-6.0	h-region	3	22	.	.	.	.
+tr|O06295|O06295_MYCTU Probable lipoprotein LpqJ OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lpqJ PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	23	23	.	.	.	.
+tr|O50430|O50430_MYCTU Low molecular weight T-cell antigen TB8.4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB8.4 PE=1 SV=1	SignalP-6.0	n-region	1	2	.	.	.	.
+tr|O50430|O50430_MYCTU Low molecular weight T-cell antigen TB8.4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB8.4 PE=1 SV=1	SignalP-6.0	h-region	3	21	.	.	.	.
+tr|O50430|O50430_MYCTU Low molecular weight T-cell antigen TB8.4 OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=TB8.4 PE=1 SV=1	SignalP-6.0	c-region	22	28	.	.	.	.
+tr|O53740|O53740_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0455c PE=1 SV=3	SignalP-6.0	n-region	1	3	.	.	.	.
+tr|O53740|O53740_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0455c PE=1 SV=3	SignalP-6.0	h-region	4	24	.	.	.	.
+tr|O53740|O53740_MYCTU Conserved protein OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=Rv0455c PE=1 SV=3	SignalP-6.0	c-region	25	30	.	.	.	.
+sp|P9WIB1|PHLC_MYCTU Phospholipase C C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcC PE=1 SV=1	SignalP-6.0	n-region	1	14	.	.	.	.
+sp|P9WIB1|PHLC_MYCTU Phospholipase C C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcC PE=1 SV=1	SignalP-6.0	h-region	15	36	.	.	.	.
+sp|P9WIB1|PHLC_MYCTU Phospholipase C C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcC PE=1 SV=1	SignalP-6.0	c-region	37	41	.	.	.	.
+sp|P9WIB1|PHLC_MYCTU Phospholipase C C OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=plcC PE=1 SV=1	SignalP-6.0	twin-arginine motif	12	13	.	.	.	.
+sp|P9WK47|LPRF_MYCTU Putative diacylated glycolipid transporter LprF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprF PE=1 SV=1	SignalP-6.0	n-region	1	3	.	.	.	.
+sp|P9WK47|LPRF_MYCTU Putative diacylated glycolipid transporter LprF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprF PE=1 SV=1	SignalP-6.0	h-region	4	38	.	.	.	.
+sp|P9WK47|LPRF_MYCTU Putative diacylated glycolipid transporter LprF OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lprF PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	39	39	.	.	.	.
+sp|P9WK71|LPPO_MYCTU Putative lipoprotein LppO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppO PE=1 SV=1	SignalP-6.0	n-region	1	6	.	.	.	.
+sp|P9WK71|LPPO_MYCTU Putative lipoprotein LppO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppO PE=1 SV=1	SignalP-6.0	h-region	7	28	.	.	.	.
+sp|P9WK71|LPPO_MYCTU Putative lipoprotein LppO OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=lppO PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	29	29	.	.	.	.
+sp|P9WKD3|BLAC_MYCTU Beta-lactamase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=blaC PE=1 SV=1	SignalP-6.0	n-region	1	10	.	.	.	.
+sp|P9WKD3|BLAC_MYCTU Beta-lactamase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=blaC PE=1 SV=1	SignalP-6.0	h-region	11	23	.	.	.	.
+sp|P9WKD3|BLAC_MYCTU Beta-lactamase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=blaC PE=1 SV=1	SignalP-6.0	lipid-modified cysteine	24	24	.	.	.	.
+sp|P9WKD3|BLAC_MYCTU Beta-lactamase OS=Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv) OX=83332 GN=blaC PE=1 SV=1	SignalP-6.0	twin-arginine motif	8	9	.	.	.	.
